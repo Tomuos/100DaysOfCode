@@ -22,6 +22,8 @@ _Feb 26 2023_
 
 📺 https://youtu.be/Nj87GEXxhjc <-- Learning markdown in VS code
 
+---
+
 ## Day 2
 
 ---
@@ -68,3 +70,69 @@ Today I felt a little daunted as I was trying to make sure I was consistent. Als
 📺 https://open.spotify.com/track/74inHQGjQj6w630tZ9wb2J?si=db20b619864b43bd <--Live to win by paul stanley. Just incase you need a bit of pep.🎵💪
 
 https://www.codecademy.com <-- code academy is a great little resource i've signed up for premium thanks to some kind pals with 50% codes. still got some great free stuff
+
+---
+
+## Day 3
+
+---
+
+_Feb 28 2023_
+
+### **Todays Progress:**
+
+- 📚 I looked into more info on how to progress with coding most of the information was as I expected. **CONSISTENCY IS KEY**
+
+- 🖥️ So today on code academy I continued with my tasks on Inheritence I managed tasks I, II, III they were all right but IV was a new hope. Seriously though it was strange to understand tomorrow task V strikes back. Here's a look at some of the code from todays task.
+
+```
+class HospitalEmployee {
+  constructor(name) {
+    this._name = name;
+    this._remainingVacationDays = 20;
+  }
+
+  get name() {
+    return this._name;
+  }
+
+  get remainingVacationDays() {
+    return this._remainingVacationDays;
+  }
+
+  takeVacationDays(daysOff) {
+    this._remainingVacationDays -= daysOff;
+  }
+}
+
+class Nurse extends HospitalEmployee {
+  constructor(name, certifications) {
+    super(name);
+    this._certifications = certifications;
+  }
+}
+
+const nurseOlynyk = new Nurse('Olynyk', ['Trauma','Pediatrics']);
+nurseOlynyk.takeVacationDays(5);
+console.log(nurseOlynyk.remainingVacationDays);
+
+Output to the log
+
+15
+
+```
+
+- 📝 Tomorrow more code academy but I think I might have a look into some html and css work one thing I would love to have ago at is parallax scrolling animation. I have some pre made images from my batman website I never got round to trying.
+
+### **Thoughts:**
+
+Today was juggling act between home life and getting this done but I will keep moving forward. I feel like I need to try new things inbetween coding exercises just to give myself a break from things. :smile:
+
+### **Links/resources:**
+
+https://www.codecademy.com/ <-- same as day 2 💻
+
+https://open.spotify.com/episode/1fkJjlkkMHhaqckaoNMbnK?si=9230d5eac9a44ea7
+<-- beta wave improve for conertration💡
+
+https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv?si=374ce79d9bc44ebf <-- for something after you beat that 1hr mark 🔥
