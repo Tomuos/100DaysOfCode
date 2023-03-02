@@ -151,7 +151,7 @@ _Mar 1 2023_
 
 - 🖥️ So today I decided to continue with the practice of making something from scratch even if it is very very simple. It was to do with our brief conversation on stained glass windows.
 
-![A beautiful landscape](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fshots.codepen.io%2Ftomuo-burns-tinkler%2Fpen%2FWNgpEpN-800.jpg%3Fversion%3D1677705667)
+![A picture of the barebones website](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fshots.codepen.io%2Ftomuo-burns-tinkler%2Fpen%2FWNgpEpN-800.jpg%3Fversion%3D1677705667)
 
 - 📝 Tomorrow i'm a little torn i would like to complete code academy tasks before moving on to the next thing but Victoria got me thinking they revealed that they were making their own calculator. I'm not sure I would make that but it would be nice to do something like that. Magic 8 ball? Sources point to ..maybe.
 
@@ -164,3 +164,78 @@ Today was rough not for coding but from home life perspective. School strikes an
 🔗https://codepen.io/tomuo-burns-tinkler<-- this is my codepen incase you are interested in seeing the little things i muck about making 💻
 
 🎵https://open.spotify.com/track/09algRz68H2iEWhJQlYhqQ?si=88dc4efac7c54498 <-- Back to mine - Tycho(Bibio remix) I just needed to hear something to calm me after today lol what a day
+
+## Day 5
+
+---
+
+_Mar 2 2023_
+
+### **Todays Progress:**
+
+- 📚 Today I wasn't sure where to start till someone else got stuck on something.
+
+- 🖥️ I decided to actually have a look into how to make a calculator in Javascript because the person I was paired with was struggling with something. I'm unsure if i can help but i'll try so I managed the basics following a tutorial but i'll need to do more work on it. Heres the html it's not the most pretty looking thing but it's a start. I might have to look up more info for these things.
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Calculator</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <div id="calculator">
+      <div id="numbers">
+        <button type="button" onclick="appendToDisplay('1')">1</button>
+        <button type="button" onclick="appendToDisplay('2')">2</button>
+        <button type="button" onclick="appendToDisplay('3')">3</button>
+        <button type="button" onclick="appendToDisplay('4')">4</button>
+        <button type="button" onclick="appendToDisplay('5')">5</button>
+        <button type="button" onclick="appendToDisplay('6')">6</button>
+        <button type="button" onclick="appendToDisplay('7')">7</button>
+        <button type="button" onclick="appendToDisplay('8')">8</button>
+        <button type="button" onclick="appendToDisplay('9')">9</button>
+        <button type="button" onclick="appendToDisplay('0')">0</button>
+        <button type="button" onclick="appendToDisplay('.')">.</button>
+        <button type="button" class="operator" onclick="clearDisplay()">
+          C
+        </button>
+      </div>
+      <div id="operators">
+        <button type="button" class="operator" onclick="appendToDisplay('%')">
+          %
+        </button>
+        <button type="button" class="operator" onclick="appendToDisplay('/')">
+          /
+        </button>
+        <button type="button" class="operator" onclick="appendToDisplay('*')">
+          *
+        </button>
+        <button type="button" class="operator" onclick="appendToDisplay('-')">
+          -
+        </button>
+        <button type="button" class="operator" onclick="appendToDisplay('+')">
+          +
+        </button>
+        <button type="button" class="operator" onclick="calculate()">=</button>
+      </div>
+    </div>
+    <input type="text" id="display" />
+    <script src="javascript.js"></script>
+  </body>
+</html>
+
+```
+
+- 📝 Tomorrow i'm going to continue working on this thing and maybe see if there are more in depth tutorials on how to do this. I'm still not sure what I'm doing though.
+
+### **Thoughts:**
+
+Family life can affect a lot of things and i'm trying to work out the new way to get the balance right. Taking breaks is important at work as well as out of work. I think I have to find a way to thank my partner for allowing me to do this course. She is precious to me. So today working on things again were difficult but for different reasons. Lets see what tomorrow brings.
+
+### **Links/resources:**
+
+🔗 https://codeburst.io/making-a-calculator-with-basic-html-css-and-javascript-part-1-1e4288f0bea1 this is where i started but I will probably be looking elsewhere for more help.
+
+🎵 - no tunes tonight ha tomorrow i promise
