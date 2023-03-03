@@ -165,6 +165,8 @@ Today was rough not for coding but from home life perspective. School strikes an
 
 🎵https://open.spotify.com/track/09algRz68H2iEWhJQlYhqQ?si=88dc4efac7c54498 <-- Back to mine - Tycho(Bibio remix) I just needed to hear something to calm me after today lol what a day
 
+---
+
 ## Day 5
 
 ---
@@ -238,4 +240,4 @@ Family life can affect a lot of things and i'm trying to work out the new way to
 
 🔗 https://codeburst.io/making-a-calculator-with-basic-html-css-and-javascript-part-1-1e4288f0bea1 this is where i started but I will probably be looking elsewhere for more help.
 
-🎵 - no tunes tonight ha tomorrow i promise
+🎵 - no tunes tonight ha tomorrow I promise
