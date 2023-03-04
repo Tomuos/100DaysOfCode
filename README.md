@@ -241,3 +241,29 @@ Family life can affect a lot of things and i'm trying to work out the new way to
 🔗 https://codeburst.io/making-a-calculator-with-basic-html-css-and-javascript-part-1-1e4288f0bea1 this is where i started but I will probably be looking elsewhere for more help.
 
 🎵 - no tunes tonight ha tomorrow I promise
+
+---
+
+## Day 6
+
+---
+
+_Mar 3 2023_
+
+### **Todays Progress:**
+
+- 📚 Today I went back through the very basic looking calculator and decided that I need to look for a better tutorial so after contacting my pal about what tutorial they used I was sent a link I started over.
+
+- 🖥️ I got much further with this tutorial in a shorter amount of time but just like most video tutorials you follow along as quickly as you can but it doesn't always go to plan. I got a better result on the build but when it came to displaying the inputs i was getting nothing. I will have to start from the beginning and check through the files to make sure nothing is missing.
+
+- 📝 Tomorrow i'm going to continue working on this in the hopes I figure out what I missed to get it up and running correctly.
+
+### **Thoughts:**
+
+Today was fun 😄 I feel like I got a fair bit done but there's still more to do and complete. I can do this maybe I just need some sleep in order to get there.
+
+### **Links/resources:**
+
+🔗 https://youtu.be/HQCLzqhiT2w <-- Tech2 etc -Build Simple Calculator With JavaScript HTML CSS | JavaScript Project
+
+🎵 - https://open.spotify.com/track/2BAlPE15dKMXpB5Trutcak?si=cbd1f231b9db4e23 <-- Theme from Quantumania - Christopher Beck. Sooooo good I could listen to it on repeat infact I think I will.
