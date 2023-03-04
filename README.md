@@ -256,6 +256,8 @@ _Mar 3 2023_
 
 - 🖥️ I got much further with this tutorial in a shorter amount of time but just like most video tutorials you follow along as quickly as you can but it doesn't always go to plan. I got a better result on the build but when it came to displaying the inputs i was getting nothing. I will have to start from the beginning and check through the files to make sure nothing is missing.
 
+![A picture of calculator](images/Calculator%20attempt.png)
+
 - 📝 Tomorrow i'm going to continue working on this in the hopes I figure out what I missed to get it up and running correctly.
 
 ### **Thoughts:**
