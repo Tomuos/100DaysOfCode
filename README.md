@@ -268,4 +268,32 @@ Today was fun 😄 I feel like I got a fair bit done but there's still more to d
 
 🔗 https://youtu.be/HQCLzqhiT2w <-- Tech2 etc -Build Simple Calculator With JavaScript HTML CSS | JavaScript Project
 
-🎵 - https://open.spotify.com/track/2BAlPE15dKMXpB5Trutcak?si=cbd1f231b9db4e23 <-- Theme from Quantumania - Christopher Beck. Sooooo good I could listen to it on repeat infact I think I will.
+🎵 - https://open.spotify.com/track/2BAlPE15dKMXpB5Trutcak?si=cbd1f231b9db4e23 <-- Theme from Quantumania - Christophe Beck. Sooooo good I could listen to it on repeat infact I think I will.
+
+---
+
+## Day 7
+
+---
+
+_Mar 3 2023_
+
+### **Todays Progress:**
+
+- 📚 I was having trouble getting things to show up on the calculator but i worked out what i'd missed and got it working.sadly in the end certain fuctions wouldn't work. So I started again with a new tutorial
+
+- 🖥️ I managed to get the bare bones done on the new calculator design. There is still plenty to do though. Its nothing more than a picture with a hover feature on the buttons.
+
+![A picture of calculator](images/new%20calculator.png)
+
+- 📝 Tomorrow i'll be making this thing functional. It's not been easy getting anthing working lately.
+
+### **Thoughts:**
+
+Not a bad one today just a busy weekend day with the family so a little tricky finding time on my own. This tutorial seems bit clearer than the previous one when with explainations as to why things are done in certain ways.
+
+### **Links/resources:**
+
+🔗 https://youtu.be/j59qQ7YWLxw <-- Web Dev Simplified calculator tutorial
+
+🎵 - https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z?si=3a954bc20d714fb1 <-- Where are you now - Lost Frequencies, Calum Scott. Not probably a bit of an earworm
