@@ -276,7 +276,7 @@ Today was fun 😄 I feel like I got a fair bit done but there's still more to d
 
 ---
 
-_Mar 3 2023_
+_Mar 4 2023_
 
 ### **Todays Progress:**
 
@@ -297,3 +297,36 @@ Not a bad one today just a busy weekend day with the family so a little tricky f
 🔗 https://youtu.be/j59qQ7YWLxw <-- Web Dev Simplified calculator tutorial
 
 🎵 - https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z?si=3a954bc20d714fb1 <-- Where are you now - Lost Frequencies, Calum Scott. Not probably a bit of an earworm
+
+---
+
+## Day 8
+
+---
+
+_Mar 5 2023_
+
+### **Todays Progress:**
+
+- 📚 This new tutorial is better but it is not without some confusing information as the tutor seems to have a completed version of his calculator which occasionally he uses to show what should happen. This felt counter productive as I kept thinking i'd failed when it wasn't happening only to find out later that I hadn't actually called anything yet for it to function. Still this is progress.
+
+- 🖥️ I got a calculator working and then following the instructions of the tutor promptly broke it again haha 😂 i'm sure I can get it working better though. An image before the destruction
+
+<div>
+
+<p align="center">
+  <img src="images/meaning%20of%20life%20calculator.png" alt="A picture of calculator">
+</p>
+</div>
+
+- 📝 Tomorrow i'll keep going see if I can beat this before the 10 day mark and hopefully i'll get some Code wars in.
+
+### **Thoughts:**
+
+Not bad just tired from the day. I got further than i expected. I've an early start tomorrow so I'll have to leave this here again for another day.
+
+### **Links/resources:**
+
+🔗 https://youtu.be/j59qQ7YWLxw <-- Web Dev Simplified calculator tutorial
+
+🎵 - https://open.spotify.com/episode/4G9geVUuuWwCLoULRbnSIS?si=6a38911680744fb5 <-- Howl's flower field - Studio ghibli relaxing ambience - by nature sound to relax 🌸, for those who might be fans of Howls Moving Castle and Nature I guess.
