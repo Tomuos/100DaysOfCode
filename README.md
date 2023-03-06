@@ -330,3 +330,55 @@ Not bad just tired from the day. I got further than i expected. I've an early st
 🔗 https://youtu.be/j59qQ7YWLxw <-- Web Dev Simplified calculator tutorial
 
 🎵 - https://open.spotify.com/episode/4G9geVUuuWwCLoULRbnSIS?si=6a38911680744fb5 <-- Howl's flower field - Studio ghibli relaxing ambience - by nature sound to relax 🌸, for those who might be fans of Howls Moving Castle and Nature I guess.
+
+---
+
+## Day 9
+
+---
+
+_Mar 6 2023_
+
+### **Todays Progress:**
+
+- 📚 I changed it up tonight I will probably finish the calculator tomorrow he writes with confidence.... Tonight I tried my hand at code wars and succeed but I did have to search various methods for producing what i wanted. I learned about split which can take information and break it into individual parts placing it all in an array.
+
+- 🖥️ So the challenge was to take Troll messages and remove the vowels from them in order to make there messages unreadable.
+
+```
+function disemvowel(str) {
+  // defining the vowels
+  const vowels = 'aeiouAEIOU';
+
+  // trollString takes a string(str) then uses split
+  const trollString = str.split('').filter(char => !vowels.includes(char)).join('');
+
+  // returning the new string without vowels
+  return trollString;
+}
+
+console.log(disemvowel("This website is for losers LOL!"));
+console.log(disemvowel("No offense but,\nYour writing is among the worst I've ever read"));
+console.log(disemvowel("What are you, a communist?"));
+```
+
+```
+Logs
+
+Ths wbst s fr lsrs LL!
+N ffns bt,
+Yr wrtng s mng th wrst 'v vr rd
+Wht r y,  cmmnst?
+```
+
+- 📝 Tomorrow I'll finish the calculator and maybe begin my next coding challenge
+
+### **Thoughts:**
+
+Today I'm tired but happy, hopefully I can get more done tomorrow. I didn't get as much as I would have liked to have done today but... I did something at least 😊
+
+### **Links/resources:**
+
+🔗 https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript <-- code wars challenge
+
+🎵 - https://open.spotify.com/track/6zumS30r4xE6o8gZTip0Lc?si=46974bb060cd4a50 <-- Rising Sun - by Aberdeen just something pleasant to listen to.🎧
