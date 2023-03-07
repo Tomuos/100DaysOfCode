@@ -382,3 +382,74 @@ Today I'm tired but happy, hopefully I can get more done tomorrow. I didn't get 
 🔗 https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript <-- code wars challenge
 
 🎵 - https://open.spotify.com/track/6zumS30r4xE6o8gZTip0Lc?si=46974bb060cd4a50 <-- Rising Sun - by Aberdeen just something pleasant to listen to.🎧
+
+---
+
+## Day 10
+
+---
+
+_Mar 7 2023_
+
+### **Todays Progress:**
+
+- 📚 Today I did way more than I expected. I had at creating drums kit on keyboard. I did something on freecodecamp "Iterate Through the Keys of an Object with a for...in Statement" which was to run a loop through an object for looking for true of false values. I finished the calculator which I was surprised about too. I even added an extra function which were keyboard inputs.
+
+- 🖥️ It's been a good day! I FINISHED THE CALCULATOR...and i added extra keyboard inputs i know i said that already but i didn't expect to get it done today. I also managed to do a loop through an object. My examples:
+
+```
+const users = {
+  Alan: {
+    online: false
+  },
+  Jeff: {
+    online: true
+  },
+  Sarah: {
+    online: false
+  }
+}
+
+function countOnline(usersObj) {
+  // Only change code below this line
+let onlineUsers = 0;
+
+for(let user in usersObj){
+
+  if(usersObj[user]["online"] === true){
+    onlineUsers += 1;
+  }
+}
+
+return onlineUsers;
+
+  // Only change code above this line
+}
+```
+
+```
+Logs
+
+// running tests
+// tests completed
+// console output
+1
+```
+
+<a href='https://codepen.io/tomuo-burns-tinkler/pen/bGxRWMp'><img src="images/finished calculator.png"></a>
+
+- 📝 Tomorrow I'll try to continue with free code camp for some more javascript and possibly some more advanced HTML and CSS.
+
+### **Thoughts:**
+
+Great day today😊 felt very productive got a fair few things done. I want to keep going see what I can push myself to do. 🐱‍🐉 Probably keep it small before trying anything too time consuming and having to bother people for answers 😀
+
+### **Links/resources:**
+
+🔗 https://codepen.io/tomuo-burns-tinkler/pen/bGxRWMp <-- codepen link again
+
+🔗 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ basic-data-structures/iterate-through-the-keys-of-an-object-with-a-for---in-statement <-- The freecodecamp task
+
+🔗 https://javascript30.com/ <-- 30 days of javascript tasks kinda fun but best to know some fundamentals
+
+🎵 https://open.spotify.com/album/49i6QxFHTMt4e9aopUO8pm?si=5d722uy2QYOxm0B8_iaQ4Q <-- Frogged & Loaded - by Pete Frogs game covers that sound fantastic.🎧
