@@ -453,3 +453,34 @@ Great day today😊 felt very productive got a fair few things done. I want to k
 🔗 https://javascript30.com/ <-- 30 days of javascript tasks kinda fun but best to know some fundamentals
 
 🎵 https://open.spotify.com/album/49i6QxFHTMt4e9aopUO8pm?si=5d722uy2QYOxm0B8_iaQ4Q <-- Frogged & Loaded - by Pete Frogs game covers that sound fantastic.🎧
+
+## Day 11
+
+---
+
+_Mar 8 2023_
+
+### **Todays Progress:**
+
+- 📚 Today I watched some shorts by a Youtuber called Hyperplexed they.... are on another level. Decided to go back through javascript fundamentals as there were things that thought i should have been able to do in my Codewars challenge but I couldn't remember how to do it.
+
+- 🖥️ So I went through some of his tutorials with Hyperplexed I made a hacker effect which was interesting my one working example:
+
+<p align="center"><img src="images/demo%20gif.gif"alt="Demo of the hacker effect"></p>
+
+I'm also trying a few other Hyperplexed tutorials out though why not.
+
+- 📝 Tomorrow when I get a chance I think I will finish any current things i'm working on and then start focusing back on Javascript fundamentals.
+
+### **Thoughts:**
+
+Not a bad day, nice to try things out and see if you can replicate and adapt them for other purposes. Had the Bootcamp Social today. I became the team captain, we called out selves the Partners In Crime. We took part in a quiz sadly we didn't place but what can you do.
+I feel like I need to focus more on the JS side of things. When i've tried to build things on my own i do get stuck quite quickly and find myself looking for answers elsewhere.
+
+### **Links/resources:**
+
+🔗 https://codepen.io/tomuo-burns-tinkler/full/oNPGyKM <-- codepen link again
+
+🔗 https://www.youtube.com/@Hyperplexed <-- if you want something nice and quick to ponder over give Hyperplexed a look at.
+
+🎵 https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp?si=a8mIvqHlRvaM0Bfl3l_1yA.🎧 <-- more gaming music tonight what can I say.
