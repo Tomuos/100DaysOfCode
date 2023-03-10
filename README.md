@@ -484,3 +484,48 @@ I feel like I need to focus more on the JS side of things. When i've tried to bu
 🔗 https://www.youtube.com/@Hyperplexed <-- if you want something nice and quick to ponder over give Hyperplexed a look at.
 
 🎵 https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp?si=a8mIvqHlRvaM0Bfl3l_1yA.🎧 <-- more gaming music tonight what can I say.
+
+---
+
+### Day 12
+
+---
+
+_Mar 9 2023_
+
+### **Todays Progress:**
+
+- 📚 Today I was more of a research day, looking into various collections for creating and learning code.
+
+- 🖥️ Codewars is the thing I got stuck multiple times today but got two done with a lot of looking things up. Here's one Challenge
+
+**Convert number to reversed array of digits**
+
+```
+function digitize(n) {
+  // turns numbers into a string then splits them into an array of numbers
+  const digits = String(n).split('');
+  // takes the array of strings, reverses it then map converts them back into array of numbers
+  return digits.reverse().map(Number);
+}
+
+
+console.log(digitize(35231)); // Output: [1, 3, 2, 5, 3]
+console.log(digitize(0));     // Output: [0]
+console.log(digitize(12345)); // Output: [5, 4, 3, 2, 1]
+
+```
+
+- 📝 Tomorrow maybe it will be more fruitful
+
+### **Thoughts:**
+
+Certain things today were out of my hands we lost two beloved rabbits to a fox in the night. So there was plenty of distractions on the mind and self blame. Tomorrow I'm sure will bare more fruit.
+
+### **Links/resources:**
+
+🔗 https://javascript.info/ <-- great javascript reference material
+
+🔗 https://apps.ankiweb.net/ <-- if you want digital flash cards this is the place to make them
+
+🎵 https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR?si=B4ihaikvR9y1Z1WViQkCwQ🎧 <-- Dramatic film scores by Daniel Pemberton
