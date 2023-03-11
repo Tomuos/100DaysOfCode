@@ -529,3 +529,31 @@ Certain things today were out of my hands we lost two beloved rabbits to a fox i
 🔗 https://apps.ankiweb.net/ <-- if you want digital flash cards this is the place to make them
 
 🎵 https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR?si=B4ihaikvR9y1Z1WViQkCwQ🎧 <-- Dramatic film scores by Daniel Pemberton
+
+---
+
+### Day 13
+
+---
+
+_Mar 11 2023_
+
+### **Todays Progress:**
+
+- 📚 Today a comedy of errors, I decided to look into mdn stuff and found a 2D javascript Brick Breaker/ Breakout game
+
+- 🖥️ Somethings went wrong but I started again and either way I have the start of a canvas with some shapes on it but it's just the start.
+
+<p align="center"><img src="images/Brick breaker.png"alt="Demo of the hacker effect"></p>
+
+- 📝 Tomorrow I will try and get much further hopefully have something to show on here.
+
+### **Thoughts:**
+
+This might be a short look at this game as I will finally starting SCHOOL OF CODE on Monday. Unfortunately my usb was snapped by one of my children lucky I had a backup. Very tired today carried over from yesterday where I got nothing much done.
+
+### **Links/resources:**
+
+🔗https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript <-- great javascript reference material
+
+🎵 https://open.spotify.com/track/2sifRHahNmhTR7a3BjKc9u?si=e12c817d9a1d408c🎧 <-- Timebomb Zone by The Prodigy if you want something to keep you awake these guys do the trick
