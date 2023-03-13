@@ -557,3 +557,31 @@ This might be a short look at this game as I will finally starting SCHOOL OF COD
 🔗https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript <-- great javascript reference material
 
 🎵 https://open.spotify.com/track/2sifRHahNmhTR7a3BjKc9u?si=e12c817d9a1d408c🎧 <-- Timebomb Zone by The Prodigy if you want something to keep you awake these guys do the trick
+
+---
+
+### Day 14
+
+---
+
+_Mar 13 2023_
+
+### **Todays Progress:**
+
+- 📚 It's been a long day, I've started SCHOOL OF CODE! so today was a lot of new experiences. We did some CSS diner work something new that I need to learn.
+
+- 🖥️ we worked in teams to make instruct each other to get the answers. We didn't finish all 32 but i did on my own.
+
+<p align="center"><img src="images/css diner.png"alt="Demo of the hacker effect"></p>
+
+- 📝 It a new start with SOC so if there is something i need to work on it may affect my choice in work
+
+### **Thoughts:**
+
+Today was fantastic, I got meet a lot of new people. It does mean i will have to put in a fair bit of effort now in order to make life easier later.
+
+### **Links/resources:**
+
+🔗https://flukeout.github.io/ <-- CSS Diner
+
+🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
