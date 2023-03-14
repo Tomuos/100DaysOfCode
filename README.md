@@ -454,6 +454,8 @@ Great day today😊 felt very productive got a fair few things done. I want to k
 
 🎵 https://open.spotify.com/album/49i6QxFHTMt4e9aopUO8pm?si=5d722uy2QYOxm0B8_iaQ4Q <-- Frogged & Loaded - by Pete Frogs game covers that sound fantastic.🎧
 
+---
+
 ## Day 11
 
 ---
@@ -487,7 +489,7 @@ I feel like I need to focus more on the JS side of things. When i've tried to bu
 
 ---
 
-### Day 12
+## Day 12
 
 ---
 
@@ -532,7 +534,7 @@ Certain things today were out of my hands we lost two beloved rabbits to a fox i
 
 ---
 
-### Day 13
+## Day 13
 
 ---
 
@@ -560,7 +562,7 @@ This might be a short look at this game as I will finally starting SCHOOL OF COD
 
 ---
 
-### Day 14
+## Day 14
 
 ---
 
@@ -583,5 +585,33 @@ Today was fantastic, I got meet a lot of new people. It does mean i will have to
 ### **Links/resources:**
 
 🔗https://flukeout.github.io/ <-- CSS Diner
+
+🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
+
+---
+
+## Day 15
+
+---
+
+_Mar 14 2023_
+
+### **Todays Progress:**
+
+- 📚 Today was one step forward and two steps back, used flow charts today to define the working of a graduation then we had to do the same for a login screen on scratch which seemed simple in flow but not simple in scratch. It got very confusing when I couldn't figure out a way to loop back on incorrect username and passwords. Almost had it working. I managed to get git sorted at least so I pulled from the repo and sent through a change.
+
+- 🖥️ We worked in pairs today which was nice although there were a few hiccups at the start. So I paired up with someone else for most of the morning but in the afternoon I was back with my intended partner.
+
+<p align="center"><img src="images/tintintin.png"alt="Demo of the hacker effect"></p>
+
+- 📝 I did this as it was something we didn't get to finish as much as we wanted to. Sometimes there's not enough hours in the day.
+
+### **Thoughts:**
+
+I guess the only way was down from yesterday ha, well let's just say it didn't quite go the way I hoped today. I need to get out my own way sometimes. Just go for the easiest way to complete a task rather than worry about is it fair to google to answer a puzzle. It's fine if it's for SOC it's not if it's down the local pub quiz. I think some day's will be like this others might be easier all we can do is our best.
+
+### **Links/resources:**
+
+🔗<-- no links today
 
 🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
