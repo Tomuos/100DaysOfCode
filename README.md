@@ -615,3 +615,62 @@ I guess the only way was down from yesterday ha, well let's just say it didn't q
 🔗<-- no links today
 
 🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
+
+---
+
+## Day 16
+
+---
+
+_Mar 15 2023_
+
+### **Todays Progress:**
+
+- 📚 Today was learning basics but it was still not easy and I think I need to simplify my thinking
+
+- 🖥️ worked with some of the teammates we did bits back and forth making sure code worked on each other screens. It was a lot of screen sharing but I think it's important. This was one of the tasks we had to do which was adding a password checker prompt.
+
+### Task E
+
+```
+function authenticateUser() {
+  let pwd = "myPassword1!";
+  let attempts = 0;
+  let maxAttempts = 3;
+
+  while (attempts < maxAttempts) {
+    let getPwd = prompt("Please enter password.");
+    if (getPwd === pwd) {
+      console.log("My favourite colour is #000080!");
+      alert("It was Rolo Tomazee");
+      return true; // return true if password is correct
+    } else {
+      attempts++;
+      alert(`Incorrect password. ${maxAttempts - attempts} attempts left`);
+    }
+  }
+
+  return false; // return false if too many attempts
+}
+
+let isLoggedIn = authenticateUser();
+
+if (isLoggedIn) {
+  // reveal secret information here
+} else {
+  alert("ACCESS DENIED");
+}
+
+```
+
+- 📝 We caught up with things today although some of the work we put in didn't quite go the way we expected.
+
+### **Thoughts:**
+
+I won't say today was easy but somethings made sense but I'm still not sure I understand what I'm doing. I just hope I'm on the right track. I'm glad I had someone watching me put things together they help keep you from making mistakes when you are too close to the code.
+
+### **Links/resources:**
+
+🔗<-- no links today maybe when things calm down a bit ha
+
+🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
