@@ -674,3 +674,45 @@ I won't say today was easy but somethings made sense but I'm still not sure I un
 🔗<-- no links today maybe when things calm down a bit ha
 
 🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
+---
+
+## Day 17
+
+---
+
+_Mar 16 2023_
+
+### **Todays Progress:**
+
+- 📚 Today we went deep into variables and learned the differences between them or at I think we did, Var = function scoped, const is usually for unchangeable code and its block scoped and let allows you to change things and is also block scoped. We also did a session on Arrays[] the many things you can put in them. We also looked into how to iterate through them and also Arrays["within arrays"]; or even [ {}, {}, {}, {}, {}, {}] objects in arrays. 
+
+- 🖥️ we did a lot of work between us the only thing we are struggling with seems to be pushing and pulling from github. We thought it best to just work through the tasks together and then think about pushing them back at a later time. 
+
+### here's one of my favorite tasks from today given an array add "t" to the end of each item. 
+
+```
+let words = ["ben", "ha", "spla", "fa", "ca", "dra"];
+
+for (let i = 0; i < words.length; i++) {
+  words[i] += "t";
+}
+
+console.log(words);
+
+output
+
+['bent', 'hat', 'splat', 'fat', 'cat', 'drat']
+
+```
+
+- 📝 We caught up with things today although some of the work we put in didn't quite go the way we expected.
+
+### **Thoughts:**
+
+I felt as a team we connected with the material and the teaching so much more than in the previous lesson. It feels like we have mini breakthroughs followed by stumpers again. I enjoyed today it was great and not feeling like we have to catch up with everything was even better. I think we still have to work on pushing and pulling in Github. 
+
+### **Links/resources:**
+
+🔗<-- no links today maybe when things calm down a bit ha
+
+🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
