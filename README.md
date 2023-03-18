@@ -674,6 +674,7 @@ I won't say today was easy but somethings made sense but I'm still not sure I un
 🔗<-- no links today maybe when things calm down a bit ha
 
 🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
+
 ---
 
 ## Day 17
@@ -716,3 +717,76 @@ I felt as a team we connected with the material and the teaching so much more th
 🔗<-- no links today maybe when things calm down a bit ha
 
 🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
+
+---
+
+## Day 18
+
+---
+
+_Mar 17 2023_
+
+### **Todays Progress:**
+
+- 📚 Today was our first Hackathon my partner was great at keeping my thoughts in check today. We managed to get a lot done and we managed to do a little bit of git work. In the hackathon we had to make a Rock Paper Scissors game.  
+
+- 🖥️  It was a fun day glad I got do something a little different I remembered things I'd done before in past tutorial videos and with my work partner giving great suggestions and noticing things that i misspelt (sissors) or noticing that something wasn't working in testing. Then things just started working and just as we started to get going it was time to check out other groups work and let them offer a take on your work. We all helped figure out a looping issue. Then it was time to get ready for the weekend.
+
+### here's the game so far. 
+
+```
+function getWinner(playerMove, computerMove) {
+    if(playerMove === computerMove){
+        return 0;
+    // console.log("It's a draw");
+}else if((playerMove === "rock" && computerMove === "scissors")||
+(playerMove === "scissors" && computerMove === "paper")||
+(playerMove === "paper" && computerMove === "rock")){
+    return 1;
+    // console.log("You win!");   
+}
+ 
+else{
+    return -1;
+    // console.log("Computer wins!");
+
+}
+  }
+  
+
+  function getRandomMove(){
+    const choices = ["rock", "paper", "scissors"]
+    let randomChoice = (Math.random() * choices.length);
+    return choices[randomChoice]; // returns array after it's been put through the randomChoice.
+  }
+ 
+
+// takes players input 
+let playerMove = prompt("Enter choice rock, paper or scissors");
+let computerMove = getRandomMove();
+// player input vs computer 
+
+let result = getWinner(playerMove, computerMove);
+
+if(result === 1){
+  alert("You Win!");
+}else if(result === 0){
+  alert("It's a Draw!");
+}else{
+  alert("You Lose!");
+}
+
+```
+
+- 📝 I think I'll continue trying to do all the tasks for this hackathon it should be good practice.
+
+### **Thoughts:**
+
+I think this week has been intense but also amazing it's really great because I didn't expect to actually understand anything yet. Still plenty to learn.
+
+### **Links/resources:**
+
+🔗<-- no links today maybe when things calm down a bit ha
+
+🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
+
