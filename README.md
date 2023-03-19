@@ -806,7 +806,7 @@ _Mar 18 2023_
 - 🖥️  I took my latest version of functions but I had to get rid of a lot of things to replace them with for use with html but as i wasn't sure how to do it found a handy Youtube video by Ania Kubow. 
 
 
-### here's the game so far I even added the varients for the end of the game. 
+### here's the game so far I even added the variants for the end of the game.  
 
 
 ![The code and preview of the game](images/Printscreen%20of%20RPS%20game.png)
@@ -825,3 +825,85 @@ I think i'm happy with the small test I did and it was odd following a tutorial 
 
 🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
 
+---
+
+## Day 20
+
+---
+
+_Mar 19 2023_
+
+### **Todays Progress:**
+
+- 📚 So today I started the day will a catch up with other cohorts looking to keep going through the basics it was good. I think I'd forgotten quite a few things. Nice meeting people again though some new some i just hadn't spoken to yet. 
+
+- 🖥️ I went back through some of my unfinished tasks from week one. I'll probably have to go back through some more and maybe as things will become easier.
+
+### here's the task 6 arrays work I rejigged
+
+```
+const friend = [ "Chris", "Lizzie", "Ben", "Tao", "Liz", "Patrick", "Tim", "James", "Joseph", "Max",];
+
+function randomFriend() {
+  const friendArr = Math.floor(Math.random() * friend.length);
+  return friend[friendArr];
+}
+const myFriend = randomFriend();
+console.log(myFriend);
+
+output will be a random name in the friend array. tried it twice and got Ben and Chris
+
+```
+I also did 3 code wars for practice today 
+
+here one of them is
+
+```
+  
+function min(num){
+    return Math.min.apply(null, num);
+   
+}
+
+function max(num) {
+    return Math.max.apply(null, num);
+    
+  
+}
+
+const arr1 = [4,6,2,1,9,63,-134,566]; 
+const arr2 = [-52, 56, 30, 29, -54, 0, -110];
+const arr3 = [42, 54, 65, 87, 0];
+const arr4 = [5];
+
+console.log(max(arr1)); 
+console.log(min(arr2));
+console.log(max(arr3)); 
+console.log(min(arr4));
+console.log(max(arr4));
+
+```
+```
+output Log
+566 (max)
+-110 (min)
+87 (max)
+5 (min)
+5 (max)
+
+```
+
+
+
+
+- 📝 Tomorrow will be the beginning of a new set of challenges and probably a new partner to get used to. I hope I don't fall behind but I look forward to seeing what comes next. 
+
+### **Thoughts:**
+
+I will have to finish a lot more of my tasks and upload them to github while i'm at it. It's much harder to do work on weekends though.
+
+### **Links/resources:**
+
+🔗<-- less links again today
+
+🎵 https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E?si=a0a8ce0c8f7b468d🎧 <-- Snowfall(slowed + Reverb) - Oneheart just an earworm of a listen. 
