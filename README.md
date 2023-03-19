@@ -790,3 +790,38 @@ I think this week has been intense but also amazing it's really great because I 
 
 🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
 
+
+---
+
+## Day 19
+
+---
+
+_Mar 18 2023_
+
+### **Todays Progress:**
+
+- 📚 Following off the back of a hackathon one of my cohorts suggested they would try and make a playable version of rock paper scissors in Html well i wanted to try that too granted I hadn't completed all my tasks from the hackathon but still. 
+
+- 🖥️  I took my latest version of functions but I had to get rid of a lot of things to replace them with for use with html but as i wasn't sure how to do it found a handy Youtube video by Ania Kubow. 
+
+
+### here's the game so far I even added the varients for the end of the game. 
+
+
+![The code and preview of the game](images/Printscreen%20of%20RPS%20game.png)
+
+
+
+- 📝 Hopefully tomorrow I can get some more cementing in of various coding practices and more programming knowledge. I need to push myself more.  
+
+### **Thoughts:**
+
+I think i'm happy with the small test I did and it was odd following a tutorial but replacing all the parts to suit my previously existing coding. Somethings didn't quite work at first but I got something working and I'm happy I added Math.floor(Math.random () * choices.length); So I could add the lizard and spock. 
+
+### **Links/resources:**
+
+🔗https://youtu.be/RwFeg0cEZvQ<-- Ania Kubow is a fantastic programmer I need to do more of her tutorials.
+
+🎵 https://www.audible.co.uk/pd/Age-of-Stone-Audiobook/1666111228?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Audio book tonight Age of stone Jez Cajiao
+
