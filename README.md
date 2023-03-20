@@ -907,3 +907,44 @@ I will have to finish a lot more of my tasks and upload them to github while i'm
 🔗<-- less links again today
 
 🎵 https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E?si=a0a8ce0c8f7b468d🎧 <-- Snowfall(slowed + Reverb) - Oneheart just an earworm of a listen. 
+
+---
+
+## Day 21
+
+---
+
+_Mar 20 2023_
+
+### **Todays Progress:**
+
+- 📚 The start of week 2. Was a little rough hopefully things will improve through the week nothing goes off without a hitch. Might have to sort out all of my Git stuff this week if I can. DOM manipulation was the key this week. New partners seem to have a better grip on things than I do currently but it's early days.
+
+- 🖥️ I did a some code wars today, we also tried to do some focus on manipulation of the DOM 
+
+### here's the one of the codewars from tonight
+
+```
+function reverseWords(str) {
+    return str.split("").reverse().join("").split(" ").reverse().join(" ")
+    
+}
+
+console.log(reverseWords("The quick brown fox jumps over the lazy dog."));
+Output ehT kciuq nworb xof spmuj revo eht yzal .god
+
+```
+
+
+
+- 📝 Tomorrow I hope will be an improvement on today. I have a feeling every week will be a bit like this where I feel a bit out of my depth. I hope to pull my weight tomorrow when working in a team of three. I feel a bit like the weak link currently. 
+
+### **Thoughts:**
+
+Hopefully tomorrow people will be a bit more talkative. New pair of people are rather quiet which makes it hard to communicate. I may have to get used to the way they do things. 
+
+### **Links/resources:**
+
+🔗 https://www.codewars.com/<-- less links again today
+
+🎵 https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt?si=a64c037d4f364c1b🎧 <-- Nujabes, The Champloo  
