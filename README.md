@@ -948,3 +948,99 @@ Hopefully tomorrow people will be a bit more talkative. New pair of people are r
 🔗 https://www.codewars.com/<-- less links again today
 
 🎵 https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt?si=a64c037d4f364c1b🎧 <-- Nujabes, The Champloo  
+---
+
+## Day 22
+
+---
+
+_Mar 21 2023_
+
+### **Todays Progress:**
+
+- 📚 Much better day today got to meet people who work in the industry. Teamwork was much better today got to help a teammate make a pokemon version of rock paper scissors. We had some fun making things today learning to create helpful comments that explain what the code does
+
+- 🖥️ More DOM manipulation today, working with eventListeners. we did a codewars in the morning.
+
+###  Here's some the tasks we did today
+
+
+```
+/////////////////////////////// Task 1
+
+// variable button connected to the button id #click-me
+const button = document.querySelector("#click-me"); 
+
+  // This function logs a few messages and changes the label on the button
+function handleClick(event) {
+  // If clicked, console log you clicked me!
+  console.log("You clicked me!");
+  // If shift key pressed, change the inner text of the button to be NAILED IT.
+  if(event.shiftKey === true){
+    const clickMe = document.querySelector("#click-me");
+    clickMe.textContent = "NAILED IT!!";
+  }
+  console.log(handleClick);
+}
+
+/////////////////////////////// Task 2
+
+// flowerButton variable assigned to the class of task-2
+let flowerButton = document.querySelector (".task-2");
+
+// 
+function flowerTitle (e) {
+  document.title = "💐🌷🌼";
+}
+flowerButton.addEventListener("click",flowerTitle);
+
+button.addEventListener("click", handleClick);
+
+document.querySelector("#title-changer").addEventListener("keyup", (e) => {
+  console.log(e.target.value);
+});
+
+/////////////////////////////// Task 3
+
+let titleChanger = document.querySelector
+(`#title-changer`)
+let h1 = document.querySelector("h1");
+
+function findValue (event) {
+  h1.textContent = event.target.value;
+} 
+titleChanger.addEventListener("keyup", findValue) 
+
+/////////////////////////////// Task 4
+//variable of image
+const img = document.querySelector("img");
+
+// function that changes the h1 colour to hotpink
+function hotpink(){
+ const h1= document.querySelector("h1"); 
+  h1.style.color = "hotpink";   
+}
+
+//function that changes back to the original colour
+function initial() {
+  const h1= document.querySelector("h1");
+  h1.style.color = "initial";
+}
+
+//img with a listeners for mouseenter and mouseleave so when you put your mouse on the img
+img.addEventListener("mouseenter", hotpink);
+img.addEventListener("mouseleave", initial);
+
+```
+
+- 📝 Tomorrow I'm sure will be a new day but I hope the group will be chatty again and that we can keep the work tasks up too.  
+
+### **Thoughts:**
+
+So much better today, everyone was a bit more chatty which meant we started to get stuff done as a team which was very helpful. Have to try and keep this all going for the rest of the week. I'm going back through the previous weeks work to make sure everything is done. 
+
+### **Links/resources:**
+
+🔗 https://www.codewars.com/<-- might just leave this link here forever as its not a daily ritual
+
+🎵 https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt?si=a64c037d4f364c1b🎧 <-- Nujabes, The Champloo  
