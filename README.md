@@ -1044,3 +1044,82 @@ So much better today, everyone was a bit more chatty which meant we started to g
 🔗 https://www.codewars.com/<-- might just leave this link here forever as its not a daily ritual
 
 🎵 https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt?si=a64c037d4f364c1b🎧 <-- Nujabes, The Champloo  
+---
+
+## Day 23
+
+---
+
+_Mar 22 2023_
+
+### **Todays Progress:**
+
+- 📚 This was a tough day for understanding, I had to take a break to unwind with all these DOM task. It feels like 
+
+- 🖥️ More DOM manipulation today we tried to make a clock before lunch then after it was a focus on we did a codewars in the morning. The codewars was pretty hard but I got there in the end.
+
+###  Here's some the tasks we did today
+
+
+```
+// write an async function called getQuote
+// use a fetch request to get a random quote from the following API: https://meowfacts.herokuapp.com/
+// the value will need to be store in a variable called response
+
+// use the .json() method to unpack the json data from the response and store it in a variable called data
+// make sure to await the response from the .json() method and the fetch request
+
+// use the data from the response to set the text of h1 with the id of quote to the first quote in the data array
+
+//call the function so the quote is displayed when the page loads
+
+// Task 2 add eventlistener to the button with the id of #new-quote-button that calls the getQuote function when clicked
+
+// Task 3 create a new function that takes a string, it will add a new list item with that string and add it to an ol with the id of quote-history
+
+// This function fetches the quote from the API and displays it on the page
+// function takes a string, it will add a new list item with that string and add it to an ol with the id of quote-history 
+async function getQuote() { 
+  const response = await fetch("https://meowfacts.herokuapp.com/");
+  const data = await response.json();
+  const h1 = document.querySelector("#quote");
+  h1.textContent = data.data[0];
+  console.log(data);
+  list(data.data[0]);
+}
+
+const quoteHistory = new Set();
+// This function adds a new list item with the quote to the ol with the id of quote-history
+function list(quote) {
+  if (!quoteHistory.has(quote)) {
+    quoteHistory.add(quote);
+    const newLi = document.createElement("ol");
+    newLi.textContent = quote;
+    document.querySelector("#quote-history").appendChild(newLi);
+  }
+}
+getQuote();
+
+// Add event listener to the button with the id of #new-quote-button that calls the getQuote function when clicked
+let newQuoteButton = document.querySelector("#new-quote-button");
+newQuoteButton.addEventListener("click", getQuote);
+
+// Bonus Task 1 add to the list function a way to remove duplicates from the list
+
+
+```
+
+![The code and preview of the game](images/quote%20work.png)
+
+
+- 📝 Tomorrow will hopefully be a good day some of todays work was mind crumbling in difficulty for me at least.    
+
+### **Thoughts:**
+
+The team still works individually from time to time, which i'm not that keen on but still everyone is communication when they think they have worked things out. 
+
+### **Links/resources:**
+
+🔗 https://www.codewars.com/<-- might just leave this link here forever as its not a daily ritual
+
+🎵 https://www.audible.co.uk/pd/Age-of-Bronze-Audiobook/B09XYLCFYN?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- The next book "Age of bronze  
