@@ -1054,7 +1054,7 @@ _Mar 22 2023_
 
 ### **Todays Progress:**
 
-- 📚 This was a tough day for understanding, I had to take a break to unwind with all these DOM task. It feels like 
+- 📚 This was a tough day for understanding, I had to take a break to unwind with all these DOM task. It feels like my head was about to fall off. It was interesting but difficult.
 
 - 🖥️ More DOM manipulation today we tried to make a clock before lunch then after it was a focus on we did a codewars in the morning. The codewars was pretty hard but I got there in the end.
 
@@ -1123,3 +1123,60 @@ The team still works individually from time to time, which i'm not that keen on 
 🔗 https://www.codewars.com/<-- might just leave this link here forever as its not a daily ritual
 
 🎵 https://www.audible.co.uk/pd/Age-of-Bronze-Audiobook/B09XYLCFYN?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- The next book "Age of bronze  
+
+---
+
+## Day 24
+
+---
+
+_Mar 23 2023_
+
+### **Todays Progress:**
+
+- 📚 Today was a nice break from the normal routine of coding I learned some new things and I was introduced to the world of UX design thanks to the magician known as Paavan. He even showed us a coin trick with technique called the french drop. Then showed us the magic of UX design. Tonight though I decided to go back through some of my old code in order to make sure I was understanding adding comments to them so that it was clear what I had been attempting to do, I also sorted out a bunch pushes to GitHub. 
+
+- 🖥️ Tonight I decided to look back through passed tasks and get as much of it commented to make more sense of what I did and what I created.
+
+###  Here's some of the updated tasks I did tonight
+
+
+```
+
+/////////////////////////////// Task 2
+
+// make a variable for the called flowerButton
+// make a function that changes the title of the of the document and changes it to flower emoji's. 
+const flowerButton = document.querySelector(".task-2");
+function titleChange() {
+  document.title = "🌸🌺🌼🌻🌹🌷🌱🌿🌾🌵🌴🌲🌳🌰🌱🌿🌾🌵🌴🌲🌳🌰";
+}
+flowerButton.addEventListener("click", titleChange);
+
+
+/////////////////////////////// Task 5
+
+// add an event listener to checkbox input
+// the checkbox will toggle the class of .funky on and off on the h1 element
+
+const checkbox = document.querySelector("#check-box");
+checkbox.addEventListener("change", (e) => { 
+    h1.classList.toggle("funky");
+});
+
+```
+
+![The code and preview of the game](/images/Webpage%20working.png)
+
+
+- 📝 Tomorrow is friday so I expect it will be another Hackathon who knows where we will end up this time. But if I had to guess maybe something to do with this weeks tasks but focused into a new build maybe a todo list or something.    
+
+### **Thoughts:**
+
+The team work went up a notch today as the groups were expanded for other tasks and I have to say things went a whole lot differently and in some ways it was much better than previous days. We all worked better together to create a short video it was good fun. We even worked on some of the codewars stuff but I still didn't quite get it maybe I need to get back into maths again. 
+
+### **Links/resources:**
+
+🔗 https://www.codewars.com/<-- Some of the code wars today were very challenging
+
+🎵 https://open.spotify.com/track/1GCJGhtticxBvH9PP7Qko0?si=5a77c0620a5c427e 🎧 <-- something nostalgic to keep me going.   
