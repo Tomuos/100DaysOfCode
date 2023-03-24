@@ -1179,4 +1179,115 @@ The team work went up a notch today as the groups were expanded for other tasks 
 
 🔗 https://www.codewars.com/<-- Some of the code wars today were very challenging
 
-🎵 https://open.spotify.com/track/1GCJGhtticxBvH9PP7Qko0?si=5a77c0620a5c427e 🎧 <-- something nostalgic to keep me going.   
+🎵 https://open.spotify.com/track/1GCJGhtticxBvH9PP7Qko0?si=5a77c0620a5c427e 🎧 <-- something nostalgic to keep me going.  
+
+---
+
+## Day 25
+
+---
+
+_Mar 24 2023_
+
+### **Todays Progress:**
+
+- 📚 HACKATHOOOOOOON, so today we had to make something using an API it was good fun but also pretty hard some did better than others but it was definitely a learning experience all around. So we chose a trivia API and we had to make a trivia game. I was the driver for most of the build as one of our team was having issues getting anything to work. I was also the navigator briefly before lunch and driver again after. 
+
+- 🖥️ So I'll show you the code and an image of the game working. sort of i mean we didn't get the score or answer section to work but we did get the questions to work. Also the answer button worked so you could find out if you were right but the issue was you couldn't select an answer from the options.
+
+###  Here's the hackathon code
+
+
+```
+
+// send a fetch to all the API'S servers
+// check the APi works in the console.log in the browser 
+
+
+/////////////////////////////////// step 2
+// Trivia question from the API array. 
+// button click to reveal the answer 
+
+// create async function that takes a question and returns a response
+async function trivia (){
+        const response = await fetch("https://opentdb.com/api.php?amount=1");
+        const data = await response.json();
+
+        // variable that takes the JSON response and returns it as a string to the h2 id of #insert-question
+         
+        let insertQuestion = document.querySelector("#insert-question")
+        let currentQuestion = data.results[0];
+        insertQuestion.innerHTML = currentQuestion.question;
+                
+        //create a ul element in html
+        //assign a variable to ul element
+
+        let multipleChoice = document.querySelector("#multiple-choice") 
+
+        // if type = multiple - create li element for
+        //everything in incorrect answers array + correct answer array
+
+        multipleChoice.innerHTML = ""
+        if (currentQuestion.type === 'multiple'){
+                for (i = 0; i < currentQuestion.incorrect_answers.length; i++){
+                       let newLi = document.createElement('li');
+                       newLi.innerHTML = currentQuestion.incorrect_answers[i];
+                       multipleChoice.appendChild(newLi);
+                };
+                let correctLi = document.createElement('li');
+                correctLi.innerHTML = currentQuestion.correct_answer;
+                multipleChoice.appendChild(correctLi);
+                
+        }else if (currentQuestion.type === 'boolean'){
+                multipleChoice.innerHTML = 'True or False?';
+            }
+        // create variable for answer button
+
+        let answerButton = document.querySelector('#answer-button');
+        // add eventlistener to the answer button
+
+        answerButton.addEventListener('click', getAnswer)
+
+        // create function that takes in the click event
+        // make variable for p id #answer
+        // change answer text
+
+        let answerP = document.querySelector("#answer-p")
+        answerP.innerHTML = ""
+        function getAnswer(event){
+
+                
+                answerP.innerHTML = currentQuestion.correct_answer
+        }
+        console.log(data)
+}
+//call function when page is loaded
+trivia();
+
+//create variable for new question button
+let newQuestionButton = document.querySelector('#new-question')
+// add event listener to question button
+newQuestionButton.addEventListener('click', trivia)
+//create function that takes in click event and runs trivia function
+
+
+
+//appendchild all li elements created to ul
+         
+        
+```
+
+![The code and preview of the game](/images/Trivia.png)
+
+
+- 📝 The weekend begins tomorrow I'd like to do some more coding but I may have children to look after so we'll see how that goes. If I can spare some time I might try get some Codewars done. There are some other tasks to complete also which I will try to get round to.    
+
+### **Thoughts:**
+
+The teamwork today was good I'm glad the I had some good navigators nearby to help me out when I got stuck. As things progressed it became easier to sort things out as they were happening. I'm glad I was able to help out and get the game working. I'm looking forward to the next hackathon I wonder who I'll be paired with next week and what we'll be making. I hope I'll be up to the task. 
+
+### **Links/resources:**
+
+🔗 https://codepen.io/tomuo-burns-tinkler/pen/abaPRqd<-- Here's the codepen for the game it still needs some work but it's a start.
+
+🎵 https://open.spotify.com/artist/0xsml01TI210Co1sfqxyAi?si=zEBquxVbSk-g2TOiCMGYzw 🎧 <-- Soothing music to help me relax.   
