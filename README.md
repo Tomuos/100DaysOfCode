@@ -1291,3 +1291,94 @@ The teamwork today was good I'm glad the I had some good navigators nearby to he
 🔗 https://codepen.io/tomuo-burns-tinkler/pen/abaPRqd<-- Here's the codepen for the game it still needs some work but it's a start.
 
 🎵 https://open.spotify.com/artist/0xsml01TI210Co1sfqxyAi?si=zEBquxVbSk-g2TOiCMGYzw 🎧 <-- Soothing music to help me relax.   
+
+---
+
+## Day 26
+
+---
+
+_Mar 25 2023_
+
+### **Todays Progress:**
+
+- 📚 Weekend means i'm doing less than my usual bootcamp days but I decided to catch up on the recap stuff that we have been left to do. 
+
+- 🖥️ I did Task 1 and started Task 2 today. I'm not sure how long it will take me to complete the tasks but I'm going to try and get them done before the next bootcamp day.
+
+###  Here's the hackathon code
+
+
+```
+
+ /////////////////////////// Task 1
+
+// write a function called makeLegend(name) should accept a string
+// This function should return a string which includes the name
+// and concatenate the string (name) + " is now a legend"
+
+const celebs = [
+  "David Beckham",
+  "Cher",
+  "Madonna",
+  "Tom Petty",
+  "Cristiano Ronaldo",
+  "Whoopi Goldberg",
+  "Samuel L Jackson",
+  "Angelina Jolie",
+  "Richard Osman",
+  "Emma Thompson",
+];
+
+
+function makeLegend(name) {
+  return name + " is now a legend";
+}
+
+console.log(makeLegend("Tom Petty"));
+
+
+// using the makeLegend function create a for loop that iterates over the celebs array
+// This should change all the names in the array to a legend
+// for example: "David Beckham" should become "David Beckham is now a legend"
+
+for (let i = 0; i < celebs.length; i++) {
+  celebs[i] = makeLegend(celebs[i]);
+}
+
+
+console.log(celebs);
+
+// use another for loop to produce a new array of all the celeb names which start with a vowel.
+// Store this in a variable called "vowelCelebs"
+// Check the first letter in the array for A, E, I, O, U
+// if the first letter is a vowel then push it to the empty vowelCelebs array
+
+let vowelCelebs = []; // empty array waiting for pushed items
+
+for (let i = 0; i < celebs.length; i++) {
+  // if statement checks the first letter of each item in the array
+  // if they match then they are pushed to the vowelCelebs array
+  if (celebs[i][0] === "A" || celebs[i][0] === "E" ||celebs[i][0] === "I" || celebs[i][0] === "O" || celebs[i][0] === "U")
+  vowelCelebs.push(celebs[i])
+}
+
+console.log(vowelCelebs);
+      
+        
+```
+
+
+
+
+- 📝 If I can manage to get myself organised i might get some join the coffee and code session tomorrow. I'm not sure how much time I'll have to do anything else but I'll try my best. I have to get my son to see his grandparents tomorrow so I'll have to make sure I have enough time to do that.    
+
+### **Thoughts:**
+
+It feels like a steep drop in learning because it's the weekend and I'm not doing the usual bootcamp stuff. I'm glad I'm able to do the recap stuff though. I'm looking forward to the next bootcamp day. I wonder what we'll be doing. I hope I'll be able to keep up with the pace.
+
+### **Links/resources:**
+
+🔗 <-- Nothing to link to today.
+
+🎵 https://open.spotify.com/artist/0xsml01TI210Co1sfqxyAi?si=zEBquxVbSk-g2TOiCMGYzw 🎧 <-- Soothing music to help me relax.   
