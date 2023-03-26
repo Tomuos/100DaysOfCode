@@ -1306,7 +1306,7 @@ _Mar 25 2023_
 
 - 🖥️ I did Task 1 and started Task 2 today. I'm not sure how long it will take me to complete the tasks but I'm going to try and get them done before the next bootcamp day.
 
-###  Here's the hackathon code
+###  Here's the recap code
 
 
 ```
@@ -1382,3 +1382,98 @@ It feels like a steep drop in learning because it's the weekend and I'm not doin
 🔗 <-- Nothing to link to today.
 
 🎵 https://open.spotify.com/artist/0xsml01TI210Co1sfqxyAi?si=zEBquxVbSk-g2TOiCMGYzw 🎧 <-- Soothing music to help me relax.   
+
+---
+
+## Day 27
+
+---
+
+_Mar 26 2023_
+
+### **Todays Progress:**
+
+- 📚 Caught up some of the recap stuff. I managed to make it to the coffee morning coding session. I was a bit late but I managed to get some work done.
+
+- 🖥️ I did Task 2, Task 3 and Task 4 today. Although Task 4 is the Bonus task I decided to attempt it anyway. As it's a later start tomorrow I might try and get some more done before the bootcamp day begins.
+
+###  Here's MORE recap code
+
+
+```
+///////////////////////////////////Task 2
+
+let count = 0;
+let twelveSeconds = document.querySelector("#count");
+twelveSeconds.innerHTML = 0;
+
+// setIterval function is set for 1000 milliseconds or 1 second
+// the count variable is incremented by 1 every second
+let timer = setInterval(() => {
+    count++;
+    twelveSeconds.innerHTML = count;
+}, 1000);
+
+// the setIterval function is stopped after 12 seconds
+setTimeout(() => {
+    clearInterval(timer);
+}, 12000);
+
+//////////////////////////////////Task 3
+
+async function getCat() {
+    const response = await fetch("https://api.thecatapi.com/v1/images/search")// fetch the API data
+    const data = await response.json() // convert the data to json
+    const cat = data[0].url //get's the image url from the json data
+    const catImage = document.querySelector("#cat-here") // get the image element
+    catImage.src = cat // set the image source to the cat image
+
+}
+getCat();
+
+// get a new cat button
+// I forgot I needed to use createElement
+const button = document.createElement("button");
+// adds an event listener to the button
+button.addEventListener("click", getCat);
+// labels the button
+button.innerText = "Get a new cat";
+// adds the button to the page
+document.body.appendChild(button);
+
+////////////////////////////////Task 4
+
+let importantThing = []; // empty array
+
+function addToList() {
+  // function to add to ol
+  let input = document.querySelector("#important-thing"); 
+  let ol = document.querySelector("ol"); 
+  let li = document.createElement("li"); 
+  let priorityInput = document.querySelector("#priority");
+
+  li.innerHTML = input.value + " " + priorityInput.value; // add input field to li
+  ol.appendChild(li); // add li to ol
+
+  importantThing.push({
+    text: input.value,
+    priority: parseInt(priorityInput.value)
+  }); // add input field to array importantThing
+  
+}             
+```
+
+
+
+
+- 📝 I  will be continuing with the tasks tomorrow i hope that i'm going down the right path with my learning. I need to take out any weaknesses that I have and make sure that I'm not missing anything. Then hopefully the more I do the more I'll be able to do. Then I might be able to help others out.    
+
+### **Thoughts:**
+
+The learning is going well I'm glad I'm able to do the recap stuff. I'm looking forward to the next bootcamp day. I wonder what we'll be doing. I hope I'll be able to keep up with the pace.
+
+### **Links/resources:**
+
+🔗 <-- Nothing to link to today.
+
+🎵 https://www.audible.co.uk/pd/Age-of-Bronze-Audiobook/B09XYLCFYN?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Age of Bronze audio book entertainment.   
