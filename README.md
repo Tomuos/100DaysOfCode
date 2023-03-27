@@ -1477,3 +1477,38 @@ The learning is going well I'm glad I'm able to do the recap stuff. I'm looking 
 🔗 <-- Nothing to link to today.
 
 🎵 https://www.audible.co.uk/pd/Age-of-Bronze-Audiobook/B09XYLCFYN?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Age of Bronze audio book entertainment.   
+
+---
+
+## Day 28
+
+---
+
+_Mar 27 2023_
+
+### **Todays Progress:**
+
+- 📚 Today we learned about a few different things like Site Reliability Engineer (SRE), things they do like finding and fixing performance bottlenecks, testing and devOps. The other subject we starter covering was UX and UI design. We learned about the difference between the two and how they work together. 
+
+- 🖥️ So tonight i went through a flex-box game and a grid-game to try learn a few new ways to display items on a page. 
+
+###  Here's the game screenshots of the completed games
+
+
+![The code and preview of the game](/images/CSS%20Froggy%20Complete.png)
+
+![The code and preview of the game](/images/Grid%20Garden.png)
+
+- 📝 I think tomorrow will be a very different day. I hope it will go well and that we gain a new understanding and appreciation for creating something from scratch. 
+
+### **Thoughts:**
+
+Today was a shorter day than normal as we started later thanks to the recap material. It felt like a blur of a day still I enjoyed myself a lot. 
+
+### **Links/resources:**
+
+🔗 https://cssgridgarden.com/<-- game links grid garden
+
+🔗 https://flexboxfroggy.com/<-- game links css froggy
+
+🎵 https://open.spotify.com/track/02bDwHxd8UuWJyeytiohaK?si=26b781591d53418f 🎧 <-- Garbage - Stupid Girl  
