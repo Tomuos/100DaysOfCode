@@ -1512,3 +1512,47 @@ Today was a shorter day than normal as we started later thanks to the recap mate
 🔗 https://flexboxfroggy.com/<-- game links css froggy
 
 🎵 https://open.spotify.com/track/02bDwHxd8UuWJyeytiohaK?si=26b781591d53418f 🎧 <-- Garbage - Stupid Girl  
+
+---
+
+## Day 29
+
+---
+
+_Mar 28 2023_
+
+### **Todays Progress:**
+
+- 📚 Today we continued UX design and started looking design thinking. The five areas of design thinking are Empathise, Define, Ideate, Prototype and Test.
+Empathise is about understanding the user and their needs. Define is about defining the problem and the solution. Ideate is about coming up with ideas and solutions. Prototype is about creating a prototype of the solution. Test is about testing the prototype and the solution. Each of these steps are important and need to be done in order to create a good solution, but they can be redone as needed to improve the solution. It is the agile way of designing. 
+
+- 🖥️ We made a flow chart of the steps we need to take to create a solution for our fake bootcamp. Bootcamp of gaming. 
+
+###  Here's the game screenshots of the completed games
+
+
+![The code and preview of the game](images/Flow%20chart.png)
+
+![The code and preview of the game](images/start.png)
+
+![The code and preview of the game](images/about.png)
+
+![The code and preview of the game](images/commitment.png)
+
+![The code and preview of the game](images/userinfo.png)
+
+![The code and preview of the game](images/loggedon.png)
+
+- 📝 This evening I went back over my old work on the first Hackathon and I'm going to try and finish it over the week. It's a simple game but I want to finish it.
+
+### **Thoughts:**
+
+Today was less intensive than the last weeks tasks. It was a nice change of pace. I'm looking forward to the next few days. 
+
+### **Links/resources:**
+
+🔗 https://cssgridgarden.com/<-- game links grid garden
+
+🔗 https://flexboxfroggy.com/<-- game links css froggy
+
+🎵 https://open.spotify.com/track/02bDwHxd8UuWJyeytiohaK?si=26b781591d53418f 🎧 <-- Garbage - Stupid Girl  
