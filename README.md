@@ -1556,3 +1556,40 @@ Today was less intensive than the last weeks tasks. It was a nice change of pace
 🔗 https://flexboxfroggy.com/<-- game links css froggy
 
 🎵 https://open.spotify.com/track/02bDwHxd8UuWJyeytiohaK?si=26b781591d53418f 🎧 <-- Garbage - Stupid Girl  
+
+---
+
+## Day 30
+
+---
+
+_Mar 29 2023_
+
+### **Todays Progress:**
+
+- 📚 Today we started looking into UI also has 5 points to it. The first is Visual Hierarchy. This is about making sure that the most important things are the most visible. The second is Consistency. This is about making sure that the design is consistent throughout the whole design. The third is Alignment. This is about making sure that the elements are aligned correctly. The fourth is White Space. This is about making sure that there is enough white space to make the design look good. The fifth is Typography. This is about making sure that the typography is correct and easy to read.
+
+- 🖥️ We got to use figma for a bit today then we were asked to make a clone of a website. I chose the star wars website.
+
+###  Here's the game screenshots of the completed games
+
+
+![image of the cloned site](images/screenshotofstarwars.jpg)
+
+
+
+
+
+- 📝 This evening I went back to the clone site and I'm going to try and finish it over the week. It's hard when you don't know how it was made but it is a good learning experience.
+
+### **Thoughts:**
+
+It was another good day. I'm looking forward to the next few days. Wonder what the hackathon will be?
+
+### **Links/resources:**
+
+🔗 <-- game links grid garden
+
+
+
+🎵 https://www.audible.co.uk/pd/Age-of-Bronze-Audiobook/B09XYLCFYN?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Age of bronze - Jez Cajiao
