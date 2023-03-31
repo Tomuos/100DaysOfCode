@@ -1593,3 +1593,44 @@ It was another good day. I'm looking forward to the next few days. Wonder what t
 
 
 🎵 https://www.audible.co.uk/pd/Age-of-Bronze-Audiobook/B09XYLCFYN?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Age of bronze - Jez Cajiao
+
+
+
+---
+
+## Day 31
+
+---
+
+_Mar 31 2023_
+
+### **Todays Progress:**
+
+- 📚 Today was the hackathon day. We had to continue what we started on tuesday. So the school of gaming was to be turned into a figma design, for mobile and desktop. We had to go through all the 5 design steps in ux and ui design. So we could give an idea of user flow and user experience. 
+
+- 🖥️ We got to use figma for creating a mockup of the school of gaming. It was good team work and we got a fair bit done.
+
+###  Here's the game screenshots of figma designs
+
+
+![image of a figma mockup](images/sogDesktop.png)
+
+![image of a figma mockup](images/sogMobile.png)
+
+
+
+
+
+- 📝 This evening I went back to the clone site and I'm going to try and finish it over the week. It's hard when you don't know how it was made but it is a good learning experience.
+
+### **Thoughts:**
+
+I found the hackathon today to be a bit of a challenge. I'm not sure if it was because the task was a little wordy and I had to reread a few things. Still it was good to work with a team and get a feel for how it is to work on something like this in a team. 
+
+### **Links/resources:**
+
+🔗 <-- game links grid garden
+
+
+
+🎵 https://www.audible.co.uk/pd/Age-of-Bronze-Audiobook/B09XYLCFYN?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Age of bronze - Jez Cajiao
