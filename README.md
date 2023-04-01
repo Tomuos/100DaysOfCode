@@ -1634,3 +1634,66 @@ I found the hackathon today to be a bit of a challenge. I'm not sure if it was b
 
 
 🎵 https://www.audible.co.uk/pd/Age-of-Bronze-Audiobook/B09XYLCFYN?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Age of bronze - Jez Cajiao
+
+---
+
+## Day 32
+
+---
+
+_Mar 1 2023_
+
+### **Todays Progress:**
+
+- 📚 I went over some code wars. I'm going to be looking over the recap tasks for this weekend in the hopes to get them finished before the next week starts.
+
+- 🖥️ The code wars had me doing a lot of reverse string and reverse words. I was close to get the right answer on my own but I did something silly by thinking I needed to make a variable when all I needed to do was return a str that was already provided I got the right answer. Then did a different version as second run through.
+
+###  Here's the code for the reverse string
+First version
+```
+function solution(str){
+  // returns the string split into an array, reversed and then joined back into a string
+  return str.split('').reverse().join('');  
+}
+
+solution('world'); // returns 'dlrow'
+
+output: dlrow
+
+```
+
+Second version
+
+```
+
+function solution(str) {
+  //variable to hold the reversed string
+  let reversedString = '';
+  //loop through the string backwards
+  for (let i = str.length - 1; i >= 0; i--) {
+    reversedString += str[i];
+  }
+  return reversedString;
+}
+
+reverseString('world'); // returns 'dlrow'
+
+
+```
+
+
+
+- 📝 Busy family day today so I didn't get much done. I'm going to try and get some more done tomorrow.
+
+### **Thoughts:**
+
+I would like to nail down all the recap before the next week starts. I'm going to try and get some more done tomorrow. I might have a look tonight but it getting late. 
+
+### **Links/resources:**
+
+🔗 https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/ <-- FreeCodeCamp reverse string
+
+
+
+🎵 https://www.audible.co.uk/pd/Age-of-Bronze-Audiobook/B09XYLCFYN?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Age of bronze - Jez Cajiao
