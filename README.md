@@ -36,7 +36,7 @@ _Feb 27 2023_
 
 - 🖥️ I've more website stuff to check through before pushing to a branch before merging. I thought it better to keep my hand in with some Javascript work with codecademy today I had a go making classes that you use to make a new instance from. Here's a brief example:
 
-```
+```js
 class Surgeon {
 constructor(name, department) {
 this.name = name;
@@ -85,7 +85,7 @@ _Feb 28 2023_
 
 - 🖥️ So today on code academy I continued with my tasks on Inheritence I managed tasks I, II, III they were all right but IV was a new hope. Seriously though it was strange to understand tomorrow task V strikes back. Here's a look at some of the code from todays task.
 
-```
+```js
 class HospitalEmployee {
   constructor(name) {
     this._name = name;
@@ -179,7 +179,7 @@ _Mar 2 2023_
 
 - 🖥️ I decided to actually have a look into how to make a calculator in Javascript because the person I was paired with was struggling with something. I'm unsure if i can help but i'll try so I managed the basics following a tutorial but i'll need to do more work on it. Heres the html it's not the most pretty looking thing but it's a start. I might have to look up more info for these things.
 
-```
+```js
 <!DOCTYPE html>
 <html>
   <head>
@@ -345,7 +345,7 @@ _Mar 6 2023_
 
 - 🖥️ So the challenge was to take Troll messages and remove the vowels from them in order to make there messages unreadable.
 
-```
+```js
 function disemvowel(str) {
   // defining the vowels
   const vowels = 'aeiouAEIOU';
@@ -362,7 +362,7 @@ console.log(disemvowel("No offense but,\nYour writing is among the worst I've ev
 console.log(disemvowel("What are you, a communist?"));
 ```
 
-```
+```js
 Logs
 
 Ths wbst s fr lsrs LL!
@@ -397,7 +397,7 @@ _Mar 7 2023_
 
 - 🖥️ It's been a good day! I FINISHED THE CALCULATOR...and i added extra keyboard inputs i know i said that already but i didn't expect to get it done today. I also managed to do a loop through an object. My examples:
 
-```
+```js
 const users = {
   Alan: {
     online: false
@@ -427,7 +427,7 @@ return onlineUsers;
 }
 ```
 
-```
+```js
 Logs
 
 // running tests
@@ -503,7 +503,7 @@ _Mar 9 2023_
 
 **Convert number to reversed array of digits**
 
-```
+```js
 function digitize(n) {
   // turns numbers into a string then splits them into an array of numbers
   const digits = String(n).split('');
@@ -632,7 +632,7 @@ _Mar 15 2023_
 
 ### Task E
 
-```
+```js
 function authenticateUser() {
   let pwd = "myPassword1!";
   let attempts = 0;
@@ -691,7 +691,7 @@ _Mar 16 2023_
 
 ### here's one of my favorite tasks from today given an array add "t" to the end of each item. 
 
-```
+```js
 let words = ["ben", "ha", "spla", "fa", "ca", "dra"];
 
 for (let i = 0; i < words.length; i++) {
@@ -734,7 +734,7 @@ _Mar 17 2023_
 
 ### here's the game so far. 
 
-```
+```js
 function getWinner(playerMove, computerMove) {
     if(playerMove === computerMove){
         return 0;
@@ -841,7 +841,7 @@ _Mar 19 2023_
 
 ### here's the task 6 arrays work I rejigged
 
-```
+```js
 const friend = [ "Chris", "Lizzie", "Ben", "Tao", "Liz", "Patrick", "Tim", "James", "Joseph", "Max",];
 
 function randomFriend() {
@@ -858,7 +858,7 @@ I also did 3 code wars for practice today
 
 here one of them is
 
-```
+```js
   
 function min(num){
     return Math.min.apply(null, num);
@@ -883,7 +883,7 @@ console.log(min(arr4));
 console.log(max(arr4));
 
 ```
-```
+```js
 output Log
 566 (max)
 -110 (min)
@@ -965,7 +965,7 @@ _Mar 21 2023_
 ###  Here's some the tasks we did today
 
 
-```
+```js
 /////////////////////////////// Task 1
 
 // variable button connected to the button id #click-me
@@ -1061,7 +1061,7 @@ _Mar 22 2023_
 ###  Here's some the tasks we did today
 
 
-```
+```js
 // write an async function called getQuote
 // use a fetch request to get a random quote from the following API: https://meowfacts.herokuapp.com/
 // the value will need to be store in a variable called response
@@ -1141,7 +1141,7 @@ _Mar 23 2023_
 ###  Here's some of the updated tasks I did tonight
 
 
-```
+```js
 
 /////////////////////////////// Task 2
 
@@ -1198,7 +1198,7 @@ _Mar 24 2023_
 ###  Here's the hackathon code
 
 
-```
+```js
 
 // send a fetch to all the API'S servers
 // check the APi works in the console.log in the browser 
@@ -1309,7 +1309,7 @@ _Mar 25 2023_
 ###  Here's the recap code
 
 
-```
+```js
 
  /////////////////////////// Task 1
 
@@ -1400,7 +1400,7 @@ _Mar 26 2023_
 ###  Here's MORE recap code
 
 
-```
+```js
 ///////////////////////////////////Task 2
 
 let count = 0;
@@ -1651,7 +1651,7 @@ _Mar 1 2023_
 
 ###  Here's the code for the reverse string
 First version
-```
+```js
 function solution(str){
   // returns the string split into an array, reversed and then joined back into a string
   return str.split('').reverse().join('');  
@@ -1665,7 +1665,7 @@ output: dlrow
 
 Second version
 
-```
+```js
 
 function solution(str) {
   //variable to hold the reversed string
@@ -1697,3 +1697,88 @@ I would like to nail down all the recap before the next week starts. I'm going t
 
 
 🎵 https://www.audible.co.uk/pd/Age-of-Bronze-Audiobook/B09XYLCFYN?action_code=ASSGB149080119000H&share_location=pdp 🎧 <-- Age of bronze - Jez Cajiao
+
+---
+
+## Day 33
+
+---
+
+_Mar 3 2023_
+
+### **Todays Progress:**
+
+- 📚 we went through Node.js today using Json's again to help us sent and retrieve information between js files. It takes a bit of getting used to but it is interesting.
+
+- 🖥️ I also tried to send in my recap tasks so far but it seemed to not be going through the way I hoped and the images didn't show up. 
+So in todays journal entry we will have a double whammy of info. 
+
+###  Here's the code from node
+
+```js
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "save": "node save_as_json.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+  "write-json-file": "^5.0.0"    
+    
+  }
+}
+
+//input 
+node save_as_json.js
+output:
+[
+  {
+    topic: 'Array methods in JavaScript',
+    haveLearned: false,
+    why: 'Useful for simplifying common operations involving arrays'
+  },
+  {
+    topic: 'Cooking the perfect jacket potato',
+    haveLearned: true,
+    why: 'I refuse to elaborate'
+  },
+  {
+    topic: 'Centering an element vertically and horizontally with CSS',
+    haveLearned: false,
+    why: 'Helps to build effective, aesthetically pleasing UIs'
+  },
+  {
+    topic: 'Cloud computing e.g. AWS',
+    haveLearned: false,
+    why: 'Used by lots of organisations to build reliable, highly available solutions'
+  }
+]
+
+```
+
+###  Here's the image from the lofi bits i did but never got round to
+
+![low fi work for desktop and mobile](images/figmaLowFiWork.png)
+
+
+
+- 📝 I surprised myself with the amount of things I had to deal with today and still managed to get a fair bit done. I still need to make sure I make better plans though. 
+
+### **Thoughts:**
+
+The recap didn't get finished before the class started but the lofi model did and I think maybe I should look into the hi models soon. The Talk today was so fantastic it made me feel like I stand a chance of making it out there. Nadeem and Elly were very compelling so much so that I almost didn't care that lunch break had supposed to have begun. 
+
+### **Links/resources:**
+
+🔗  https://www.iflscience.com/relatable-ada-lovelace-letter-shows-her-begging-charles-babbage-not-to-mess-with-her-math-65640<-- Inspired to check this out after the talk
+
+
+
+🎵 https://open.spotify.com/track/6GIXaGJrDDQ3C6pxeYSFoO?si=d4b294bcc78f4e5b 🎧 <-- Secunda from skyrim E.S.V - Dreyma. For all your epic quests until I take an arrow to the knee of course.
