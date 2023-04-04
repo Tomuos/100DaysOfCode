@@ -1700,7 +1700,7 @@ I would like to nail down all the recap before the next week starts. I'm going t
 
 ---
 
-## Day 33
+## Day 33/34
 
 ---
 
@@ -1782,3 +1782,47 @@ The recap didn't get finished before the class started but the lofi model did an
 
 
 🎵 https://open.spotify.com/track/6GIXaGJrDDQ3C6pxeYSFoO?si=d4b294bcc78f4e5b 🎧 <-- Secunda from skyrim E.S.V - Dreyma. For all your epic quests until I take an arrow to the knee of course.
+
+---
+
+## Day 35
+
+---
+
+_Mar 3 2023_
+
+### **Todays Progress:**
+
+- 📚 More node stuff today, it's definitely not easy for me struggled a bit until i realized that i'd not moved into the right folder and suddenly things started working out better. 
+
+- 🖥️ No time for recap when there's so much js stuff to sort out managed to get some nice solutions to things in the end. I was sent a codewars by a fellow cohort and it is very hard for me so far i'm yet to finish. Other than that I did some work todays task. 
+
+###  Here's the code from node
+
+```js
+export function greetPerson(name) {
+  if(typeof name !== "string" || typeof name === Boolean){
+    return "Please try again with a name!"
+  }
+  return `Greetings, ${name}`;
+  
+}
+
+```
+
+
+- 📝 Had some technical issues today lots of things seemed to have crashed or stopped working. I managed to fix a few things though and caught up on some of the work.
+
+### **Thoughts:**
+
+it seemed like a comedy of errors today. I'm not sure what happened but I'm glad I managed to get some stuff done. I'm going to try and get some more done tomorrow.
+Hopefully be of more help to the team. 
+
+### **Links/resources:**
+
+🔗  <-- nothing this week
+
+
+
+🎵 https://open.spotify.com/track/6GIXaGJrDDQ3C6pxeYSFoO?si=d4b294bcc78f4e5b 🎧 <-- Secunda from skyrim E.S.V - Dreyma. For all your epic quests until I take an arrow to the knee of course.
+
