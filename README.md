@@ -1797,7 +1797,7 @@ _Mar 3 2023_
 
 - 🖥️ No time for recap when there's so much js stuff to sort out managed to get some nice solutions to things in the end. I was sent a codewars by a fellow cohort and it is very hard for me so far i'm yet to finish. Other than that I did some work todays task. 
 
-###  Here's the code from node
+###  Here's the code 
 
 ```js
 export function greetPerson(name) {
@@ -1825,4 +1825,100 @@ Hopefully be of more help to the team.
 
 
 🎵 https://open.spotify.com/track/6GIXaGJrDDQ3C6pxeYSFoO?si=d4b294bcc78f4e5b 🎧 <-- Secunda from skyrim E.S.V - Dreyma. For all your epic quests until I take an arrow to the knee of course.
+
+
+# A new journey begins
+
+
+---
+
+## Day 1
+
+---
+
+_JULY 18 2023_
+
+### **Todays Progress:**
+
+- 📚 Here begins a new journey into coding once more. I'm excited to see what I can do this time around. I'm going to try and keep a journal of my progress and see how far I can get. In other news I completed the SCHOOL OF CODE Bootcamp and I'm now a graduate. I'm going to try and keep this up for as long as I can. 
+
+- 🖥️ So heres the plan I'm going to try and do a recap of the day and then do some work on the tasks. I'm going to try do code wars at least once a day if I can. On top of this I hope to build side projects and maybe update create a portfolio website.
+
+###  Here's the code from todays recap
+
+
+
+```js
+
+// Deoxyribonucleic acid (DNA) is a chemical found in the nucleus of cells and carries the "instructions" for the development and functioning of living organisms.
+
+// In DNA strings, symbols "A" and "T" are complements of each other, as "C" and "G". Your function receives one side of the DNA (string, except for Haskell); you need to return the other complementary side. DNA strand is never empty or there is no DNA at all (again, except for Haskell).
+
+// "ATTGC" --> "TAACG"
+
+// "GTAT" --> "CATA"
+
+function DNAStrand(dna){
+  
+  var result= "";
+		  for(var i =0; i<dna.length; i++) 
+		  {
+        if (dna[i]==="A") 
+       {
+        result +="T";
+       }
+        else if (dna[i]==="T") 
+       {
+        result += "A";
+        }
+        else if (dna[i]==="C")
+        {
+        result +="G";
+        }
+        else if (dna[i]==="G")
+        {
+        result += "C";
+        }
+        else {
+        result +=dna[i];
+        }
+		 }
+     return result;
+	}
+
+  // There was a more cool way of doing this which was in the suggestions 
+
+//   function DNAStrand(dna) {
+//   return dna.replace(/./g, function(c) {
+//     return DNAStrand.pairs[c]
+//   })
+// }
+
+// DNAStrand.pairs = {
+//   A: 'T',
+//   T: 'A',
+//   C: 'G',
+//   G: 'C',
+// }
+
+//This was a cool way of doing it but I'm not sure I understand it yet. I'll have to look into it more. 
+
+
+
+```
+
+
+- 📝 Today was a juggle but that's fine, nothing will work out the way you expect and as long as I keep trying I'll get there.
+
+### **Thoughts:**
+
+Family first, school closure due to flooding, shower heads breaking, and a whole host of other things. I'm glad I managed to get some work done today. I'm going to try and get some more done tomorrow. My boys are alright and happy so that's all that matters. There mum is the real hero for me most days.
+
+### **Links/resources:**
+
+🔗  <-- nothing this week
+
+
+
+🎵 📚 <-- audiobook is He who fights with monsters book 5 anyone who likes litrpg should check it out. I love the series so far. The narrator is great too nice to hear an aussie accent for a change and he does a great job with the voices of other characters.
 
