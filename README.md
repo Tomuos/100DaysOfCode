@@ -1922,3 +1922,60 @@ Family first, school closure due to flooding, shower heads breaking, and a whole
 
 🎵 📚 <-- audiobook is He who fights with monsters book 5 anyone who likes litrpg should check it out. I love the series so far. The narrator is great too nice to hear an aussie accent for a change and he does a great job with the voices of other characters.
 
+
+---
+
+## Day 2
+
+---
+
+_JULY 19 2023_
+
+### **Todays Progress:**
+
+- 📚 Today i started learning python using a Udemy course I bought but never started. There is something familiar about it but it's also very different. I'm going to try and do a bit of python when I can. I'm also going to trying build projects and do code wars.
+
+- 🖥️ I did a code wars today something called the tribonachi sequence. It was a bit of a challenge but I managed to get it done, rather than adding two numbers together like fibonachi it was adding 3 numbers to get the sequence. I also did some work on the python course basic things like variables, strings and inputs.
+
+###  Here's the code from todays recap
+
+```js
+
+function tribonacci(signature,n){
+    let sequence = signature;
+
+    if (n === 0) {
+        return [];
+    }
+// slice takes the last three numbers of the array and adds them together to get the next number in the sequence
+    while (sequence.length < n) {
+        let lastThreeNums = sequence.slice(-3); 
+        let sum = lastThreeNums.reduce((a, b) => a + b, 0);
+        sequence.push(sum);
+    }
+
+    return sequence.slice(0, n);
+  }
+// this should show the first 10 numbers of the sequence
+  console.log(tribonacci([1,1,1],10));
+
+```
+
+
+- 📝 I managed to get things done between the kids going to school and the youngest visiting his grandparents and drop off and pick up. Kind of a productive day.
+
+### **Thoughts:**
+
+I'm glad I managed to get some work done today. I'm going to try and get some more done tomorrow. I'm going to try and do some more python and maybe some more code wars. 
+## plan
+- decide on a project to do
+- do some more python
+- do some more code wars
+- update the journal
+- check CV and update it along with linkedin and github
+
+### **Links/resources:**
+
+🔗  https://www.udemy.com/course/100-days-of-code/ <-- 100 Days of Code: The Complete Python Pro Bootcamp for 2023. If you are interested in learning python this is a good course to start with. I'm going to try and do a bit of this course each day.
+
+🎵 📚 <-- audiobook is He who fights with monsters book 5 anyone who likes litrpg should check it out. I love the series so far. The narrator is great too nice to hear an aussie accent for a change and he does a great job with the voices of other characters.
