@@ -2038,3 +2038,5 @@ It was good to focus on sending out CV's and working to make myself more employa
 🔗  https://www.udemy.com/course/100-days-of-code/ <-- 100 Days of Code: The Complete Python Pro Bootcamp for 2023. If you are interested in learning python this is a good course to start with. I'm going to try and do a bit of this course each day.
 
 🎵  <-- music today by a band called OHMA which are a nice blend of instrumental and electronic chill out music.
+
+---
