@@ -1979,3 +1979,62 @@ I'm glad I managed to get some work done today. I'm going to try and get some mo
 🔗  https://www.udemy.com/course/100-days-of-code/ <-- 100 Days of Code: The Complete Python Pro Bootcamp for 2023. If you are interested in learning python this is a good course to start with. I'm going to try and do a bit of this course each day.
 
 🎵 📚 <-- audiobook is He who fights with monsters book 5 anyone who likes litrpg should check it out. I love the series so far. The narrator is great too nice to hear an aussie accent for a change and he does a great job with the voices of other characters.
+
+---
+
+## Day 3
+
+---
+
+_JULY 20 2023_
+
+### **Todays Progress:**
+
+- 📚 Today I did some more code wars. I'm going to try and do a bit of python when I can. I'm also going to trying build projects and do code wars still.
+
+- 🖥️ I did a code wars today something called "Beginner Series #1 School Paperwork". you had to work out the amount of paperwork needed for a given number of students
+
+###  Here's the code from todays recap
+
+```js
+// DESCRIPTION:
+// Your classmates asked you to copy some paperwork for them. You know that there are 'n' classmates and the paperwork has 'm' pages.
+
+// Your task is to calculate how many blank pages do you need. If n < 0 or m < 0 return 0.
+
+// Example:
+// n= 5, m=5: 25
+// n=-5, m=5:  0
+// Waiting for translations and Feedback! Thanks!
+
+
+function paperwork(n, m) {
+    if (n < 0 || m < 0) {
+      return 0;
+    }
+  
+    return n * m;
+  }
+  console.log(paperwork(5, 5));
+
+  // output: 25
+
+//   Other Solutions:
+
+//   function paperwork(n, m) {
+//     return n > 0 && m > 0 ? n * m : 0
+//   }
+
+```
+
+- 📝 Most of today was spent applying for jobs and trying to get my CV and linkedin up to date. I'm going to try and get some more done tomorrow. I'm going to try and do some more python and maybe some more code wars.
+
+### **Thoughts:**
+
+It was good to focus on sending out CV's and working to make myself more employable. I will need to begin working on a bigger project maybe with python i can create something that automates a task for me.
+
+### **Links/resources:**
+
+🔗  https://www.udemy.com/course/100-days-of-code/ <-- 100 Days of Code: The Complete Python Pro Bootcamp for 2023. If you are interested in learning python this is a good course to start with. I'm going to try and do a bit of this course each day.
+
+🎵  <-- music today by a band called OHMA which are a nice blend of instrumental and electronic chill out music.
