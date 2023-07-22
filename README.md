@@ -2038,3 +2038,84 @@ It was good to focus on sending out CV's and working to make myself more employa
 🔗  https://www.udemy.com/course/100-days-of-code/ <-- 100 Days of Code: The Complete Python Pro Bootcamp for 2023. If you are interested in learning python this is a good course to start with. I'm going to try and do a bit of this course each day.
 
 🎵  <-- music today by a band called OHMA which are a nice blend of instrumental and electronic chill out music.
+
+---
+
+## Day 4
+
+---
+
+_JULY 21 2023_
+
+### **Todays Progress:**
+
+- 📚 Today I did some more code wars. looking into my project side decided to make games first before moving forward.
+
+- 🖥️ I did a code wars today something called "Beginner Series #2 Clock". you had to work out the angle between the hour and minute hands on a clock.
+
+###  Here's the code from todays recap
+
+```js
+
+// Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
+
+// Examples input/output:
+
+// XO("ooxx") => true
+// XO("xooxx") => false
+// XO("ooxXm") => true
+// XO("zpzpzpp") => true // when no 'x' and 'o' is present should return true
+// XO("zzoo") => false
+
+
+//step 1: create a function that takes in a string call it XO
+//step 2: create a variable that will hold the string converted to lowercase using the toLowerCase method
+//step 3: create a variable that will hold the string converted to an array using the split method
+//step 4: create a variable that will hold the array filtered for the letter x using the filter method
+//step 5: create a variable that will hold the array filtered for the letter o using the filter method
+//step 6: create a conditional that will check if the length of the x array is equal to the length of the o array
+//step 7: return the conditional
+
+function XO(str) {
+    let lowerCase = str.toLowerCase()
+    let arr = lowerCase.split('')
+    let x = arr.filter(x => x === 'x')
+    let o = arr.filter(o => o === 'o')
+    if (x.length === o.length) {
+        return true
+    } else {
+        return false
+    }
+}
+
+console.log(XO('ooxx'))
+
+//output: true
+
+// Other Solutions: 
+
+function XO(str) {
+  let x = str.match(/x/gi);
+  let o = str.match(/o/gi);
+  return (x && x.length) === (o && o.length);
+}
+
+// look like they used regex to solve this problem. I'm not sure how to use regex like this yet but I'll look into it. I think freecodecamp had a whole section on it. 
+
+``` 
+
+
+- 📝 Weekend is family time for me so working on the weekend is difficult and usually done late. It's important to have breaks anyway. 
+
+
+### **Thoughts:**
+
+I'm glad I managed to get some work done today. I'm going to try and get some more done tomorrow. 
+
+### **Links/resources:**
+
+🔗  https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method <-- I found the regular expressions (regex) section on freecodecamp. I'm going to try and do a bit of this when I get a chance.
+
+🎵  <-- music today by a band called OHMA which are a nice blend of instrumental and electronic chill out music.
+
+
