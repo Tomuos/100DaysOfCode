@@ -2119,3 +2119,41 @@ I'm glad I managed to get some work done today. I'm going to try and get some mo
 🎵  <-- music today by a band called OHMA which are a nice blend of instrumental and electronic chill out music.
 
 
+--- 
+
+## Day 5 
+
+---
+
+_AUGUST 15 2023_
+
+### **Todays Progress:**
+
+- 📚 Some time has passed since my last entry but there is a fair few things going on. I've been managing to get some codewars done but i've also been working on a project. It's called WORD GAMES and it will be multiple games that help teach phonics to those struggling with reading. I'm making it for my son who is 6 and has a tough time remembering words. I'm hoping it will help him and others who have issues with reading.
+
+- 🖥️ Today begain working on my second game on the project word-constructor which is a game where you have some empty tile slots, visual word clues and eventually spoken word clues. The player has to fill in the empty slots with the correct letters to spell the word.
+
+### No code this time round only a screenshot of the games so far and some figma to show a concept of what I'm trying to do.
+
+
+![image of the game](images/figmaConstructor.png)
+This is the concept for the game. I'm going to try and make it look like this and maybe I'll go over the design further as I add difficulty levels.
+
+![image of the game](images/WordConstructor1.png)
+I've only got the Letter set up but they aren't moveable yet. I'm going to try and get that done tomorrow.
+
+![image of the game](images/Memory.png)
+Here is the current version it has a scoring system and it's playable and my son liked it which was a bonus I'll need to add more levels and maybe some more features a redesign might be in order too. 
+
+
+- 📝 I'm going to try and get some more done tomorrow. I'm going to try and do some more project work and maybe some more code wars.
+
+### **Thoughts:**
+
+I'm glad I managed to get some work done today. I'm going to try and get some more done tomorrow.
+
+### **Links/resources:**
+
+🔗  https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method <-- I found the regular expressions (regex) section on freecodecamp. I'm going to try and do a bit of this when I get a chance.
+
+🎵  <-- music today by a band called half.alive - still feel currently https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5?si=665faad3d84547ef.
