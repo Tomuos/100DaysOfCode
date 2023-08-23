@@ -2157,3 +2157,30 @@ I'm glad I managed to get some work done today. I'm going to try and get some mo
 🔗  https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method <-- I found the regular expressions (regex) section on freecodecamp. I'm going to try and do a bit of this when I get a chance.
 
 🎵  <-- music today by a band called half.alive - still feel currently https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5?si=665faad3d84547ef.
+
+
+---
+
+## Day 6
+
+---
+
+_AUGUST 23 2023_
+
+### **Todays Progress:**
+
+- 📚 I've been working on my project word-constructor which is a game where you have some empty tile slots, visual word clues and eventually spoken word clues. The player has to fill in the empty slots with the correct letters to spell the word. I've been working on the drag and drop feature and it's been a bit of a challenge but I'm getting there. 
+
+- 🖥️ Today I managed to get the drag and drop feature working. I've also with the help of a friend Paul Greenfield managed to pass an array of fruit names to the game and it will randomly pick one and display it. The game should display empty slot for the word and then the player can drag and drop the letters into the empty slots. When it's correct it will say CORRECT! otherwise it will show wrong letters in red. Green letters and green border indicate the correct letters.
+
+### No  screenshot of the games yet but I will and maybe i'll do a side by side comparison with the figma later.
+
+- 📝 I'm going to try and get some more done tomorrow. I'm going to try and do some more project work and maybe some more code wars.
+
+### **Thoughts:**
+
+I'm glad I managed to get some work done today. Chipping away day by day really seems to be working for me. I'm going to try and get some more done tomorrow.
+
+### **Links/resources:** no links today 😥
+
+🎵  <-- music today by a band called half.alive - still feel currently https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5?si=665faad3d84547ef.
