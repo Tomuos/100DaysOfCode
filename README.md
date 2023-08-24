@@ -2184,3 +2184,32 @@ I'm glad I managed to get some work done today. Chipping away day by day really 
 ### **Links/resources:** no links today 😥
 
 🎵  <-- music today by a band called half.alive - still feel currently https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5?si=665faad3d84547ef.
+
+
+---
+
+## Day 7
+
+---
+
+_AUGUST 24 2023_
+
+### **Todays Progress:**
+
+- 📚 Having a few hiccups with the word constructor game. I will work a bit more on it tonight before moving on to maybe a code wars or two. Then give it another go tomorrow. 
+
+- 🖥️ So the issues - The previous letters aren't clearing when the new image is displayed. So i need to work out a way to clear it from the empty slots. Maybe I can add in typing the word as an option also. Then perhaps figure out a nice screen size that will work on tablets and pc i'm not sure about mobile yet. I think it would be harder to do on mobile and I wouldn't want to give my son my phone to play with.
+
+### As suggested I have a picture of the game so far and the figma design for comparison maked with the key of my face and the figma logo on the side
+
+![image of the game](images/comparison.png)
+
+- 📝 I might break down the issues and the needs for this game tomorrow to hopefully come up with a solution. I will also consider the useability of the game and how it will work on different devices.
+
+### **Thoughts:**
+
+It's getting there, bit by bit. Ocassionally it goes in the wrong direction but if anything it forces you to rethink your approach. Right time to get back to it.
+
+### **Links/resources:** no links today 😥
+
+🎵  <-- music today by a band called wrthless - very cool band who just have that right sound for a little nostalgia trip i believe they are a scottish band they need to make an album as there singles are really good  https://open.spotify.com/artist/5ZZdqQv9JEcnRCSnfwklSH?si=9o7o-JLJTbqMIv1XJ5SXCg
