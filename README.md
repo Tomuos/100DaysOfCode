@@ -2213,3 +2213,34 @@ It's getting there, bit by bit. Ocassionally it goes in the wrong direction but 
 ### **Links/resources:** no links today 😥
 
 🎵  <-- music today by a band called wrthless - very cool band who just have that right sound for a little nostalgia trip i believe they are a scottish band they need to make an album as there singles are really good  https://open.spotify.com/artist/5ZZdqQv9JEcnRCSnfwklSH?si=9o7o-JLJTbqMIv1XJ5SXCg
+
+
+---
+
+## Day 8
+
+---
+
+_AUGUST 27 2023_
+
+
+### **Todays Progress:**
+
+- 📚 I've been working on my project word-constructor I had fixed a few issues I was having then I started styling it to hopefully make it look a bit better. I'm going to try and do a bit more styling tomorrow.
+
+- 🖥️ Today I made sure all the code for the games was running without error which took a bit of doing but it happened. I also added some more colour to the tiles in the game but hopefully nothing too dark as i don't want to make it harder to read. I'm going to try and do a bit more styling tomorrow.
+
+### I have a screenshot of the game so far. 
+
+![image of the game](images/alphabet-coloured.png)
+
+- 📝 I'm going to try and get some more done tomorrow. Keep chipping away at it I think i'll have to work on audio next and then maybe some more styling.
+
+
+### **Thoughts:**
+Not a bad day, there were fiddly bits but i got through it in the end. 
+
+
+### **Links/resources:** no links today 😥
+
+🎵  <-- music today by a band called Asian Kung-Fu Generation - They did a lot of opening tunes for various Animes.   https://open.spotify.com/album/3RJRauD27BwXHYI19CqwHu?si=DFygsihdQyqFzXkrEzVujw
