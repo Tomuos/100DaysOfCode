@@ -2244,3 +2244,35 @@ Not a bad day, there were fiddly bits but i got through it in the end.
 ### **Links/resources:** no links today 😥
 
 🎵  <-- music today by a band called Asian Kung-Fu Generation - They did a lot of opening tunes for various Animes.   https://open.spotify.com/album/3RJRauD27BwXHYI19CqwHu?si=DFygsihdQyqFzXkrEzVujw
+
+
+---
+
+## Day 9
+
+---
+
+_AUGUST 30 2023_
+
+### **Todays Progress:**
+
+- 📚 I've been working on my project this time it's more styling but i'm considering the next steps. I'll need levels of difficulty to be added and maybe some audio. I'm going to try and do a bit more styling tomorrow.
+
+- 🖥️ Today I had a presentation with binance as a partner for school of code. We were presenting as bootcampers on behalf of the school. It was a good experience and I'm glad I got to do it. 
+
+### I think I'll link the video for the presentation incase anyone is interested.
+
+[![image of the game](images/Binance%20x%20SOC.png)](https://www.binance.com/en/live/video?roomId=2150403)
+
+
+- 📝 I'm going to try and get some more done tomorrow. Keep chipping away at it I think i'll have to work on levels and eventually audio next.
+
+
+### **Thoughts:**
+
+It was an interesting day today very strange to be presenting to a company like binance. I'm glad I got to do it. Apparently at the time 18,000 people were watching. I'm not sure if that's true but it was a good experience.
+
+### **Links/resources:** the link is the picture above ha 😁
+
+🎵  <-- music today I did a song radio of Riot Rythem and i'm getting a bunch of old favourites showing up. https://open.spotify.com/playlist/37i9dQZF1E8PTv3ARvZOyB?si=6b9f70a1ecf44034
+
