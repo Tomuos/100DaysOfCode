@@ -2276,3 +2276,34 @@ It was an interesting day today very strange to be presenting to a company like 
 
 🎵  <-- music today I did a song radio of Riot Rythem and i'm getting a bunch of old favourites showing up. https://open.spotify.com/playlist/37i9dQZF1E8PTv3ARvZOyB?si=6b9f70a1ecf44034
 
+
+---
+
+## Day 10
+
+---
+
+_AUGUST 31 2023_
+
+### **Todays Progress:**
+
+- 📚 Not much work with the project today but I did attend a Tech event in Birmingham called BrumJS. It was a good event and I'm glad I got to go. I'm going to try and do a bit more project work tomorrow.
+
+- 🖥️ Brum js meetup is all i have to show for tonight it was fun.
+
+### I think I have a picture of the event.
+
+![image of the game](images/brumjs.jpg)
+
+- 📝 I'm going to try and get some more done tomorrow. Keep chipping away.
+
+
+### **Thoughts:**
+
+Busy day but not for coding. I'm going to try and get some more done tomorrow. Keep chipping away.
+
+### **Links/resources:** https://www.meetup.com/ 😁
+
+
+🎵  <-- Same song radio as before using Riot Rythem and i'm getting a bunch of old favourites showing up. https://open.spotify.com/playlist/37i9dQZF1E8PTv3ARvZOyB?si=6b9f70a1ecf44034
+
