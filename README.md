@@ -2307,3 +2307,72 @@ Busy day but not for coding. I'm going to try and get some more done tomorrow. K
 
 🎵  <-- Same song radio as before using Riot Rythem and i'm getting a bunch of old favourites showing up. https://open.spotify.com/playlist/37i9dQZF1E8PTv3ARvZOyB?si=6b9f70a1ecf44034
 
+
+---
+
+## Day 11
+
+---
+
+_SEPTEMBER 2 2023_
+
+### **Todays Progress:**
+
+- 📚 i'm stuck on adding levels to the games and i'm not sure how to do it. I'm going to try and do a bit more project work tomorrow. applied for a fair few jobs today so fingers crossed.
+
+- 🖥️ I did a code wars today something called "Find your caterer". you had to work out the cost and discount depending on the groups size.
+
+###  Here's the code from todays recap
+
+```js
+function findCaterer(budget, people) {
+  const basicBuffetCost = 15;
+  const economyBuffetCost = 20;
+  const premiumBuffetCost = 30;
+  
+  // Check if there are no people or budget is too low to afford basic buffet
+  if (people < 1 || budget < basicBuffetCost * people) {
+    return -1;
+  }
+  
+  const perPersonBudget = budget / people;
+  
+  if (perPersonBudget < economyBuffetCost) {
+    return 1; // Choose basic buffet
+  } else if (perPersonBudget < premiumBuffetCost || people <= 60) {
+    return 2; // Choose economy buffet
+  } else {
+    const discountedPremiumBuffetCost = premiumBuffetCost * 0.8;
+    if (perPersonBudget >= discountedPremiumBuffetCost) {
+      return 3; // Choose premium buffet with discount
+    } else {
+      return 2; // Choose economy buffet as premium is still too expensive
+    }
+  }
+}
+
+console.log(findCaterer(1000, 100));
+
+// output: 3
+
+
+```
+
+I almost forgot to show the memory game I'm working on and what it looks like so far. Here is a screenshot of the game so far.
+
+![image of the game](images/phonicsMemGame.png)
+
+
+- 📝 I'm going to try and get some more project work done tomorrow. Keep chipping away.
+
+
+### **Thoughts:**
+
+Today was a little frustrating as i pulled a muscle in my shoulder and it's been a bit of a pain. Work has been slow today but maybe next week will be easier with the boys at school and nursery.
+
+
+### **Links/resources:** if i can find a way to do levels i'll link it here next time 😁
+
+
+🎵  <--  song radio using Moxy the band's song "The Feeling of Letting Go". https://open.spotify.com/playlist/37i9dQZF1E8NAozM2AcSje?si=c6e6a385f6fd408f
+
