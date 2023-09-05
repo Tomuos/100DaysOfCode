@@ -2376,3 +2376,53 @@ Today was a little frustrating as i pulled a muscle in my shoulder and it's been
 
 🎵  <--  song radio using Moxy the band's song "The Feeling of Letting Go". https://open.spotify.com/playlist/37i9dQZF1E8NAozM2AcSje?si=c6e6a385f6fd408f
 
+
+---
+
+## Day 12
+
+---
+
+_SEPTEMBER 5 2023_
+
+### **Todays Progress:**
+
+- 📚 Today was a little tough but part of the process, I had an interview it didn't really go the way I hoped but I guess maybe I'll get the next one. I tried to do a bit of work on the project but didn't get very far i did do a code wars though. 
+
+- 🖥️ I did a code wars today something called "Count the divisors of a number". you had to work out the number of divisors for a given number.
+
+###  Here's the code from todays recap
+
+```js
+
+function getDivisorsCnt(n) {
+  let count = 0;
+  const sqrtN = Math.floor(Math.sqrt(n));
+
+  for (let i = 1; i <= sqrtN; i++) {
+    if (n % i === 0) {
+      count += 2; // Both i and n/i are divisors
+    }
+  }
+
+  if (sqrtN * sqrtN === n) {
+    count--;
+  }
+
+  return count;
+}
+
+```
+
+- 📝 I'm going to try and get some more project work done tomorrow. Keep moving forward.
+
+
+### **Thoughts:**
+
+Glad I got an interview at least but it's a bit of a bummer. I'm going to try and get some more learning done tomorrow. ONWARDSSSSS!
+
+### **Links/resources:** https://www.codewars.com <-- code wars is a great place to practice your coding skills and learn new things. I'm going to try do more when i can.
+
+🎵  <--  listening to some Sufjan Stevens". https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c?si=Hk8fx_jRQYC_It3vnN__tA
+
+
