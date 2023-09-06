@@ -2426,3 +2426,62 @@ Glad I got an interview at least but it's a bit of a bummer. I'm going to try an
 🎵  <--  listening to some Sufjan Stevens". https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c?si=Hk8fx_jRQYC_It3vnN__tA
 
 
+---
+
+## Day 13
+
+---
+
+
+_SEPTEMBER 6 2023_
+
+### **Todays Progress:**
+
+- 📚 Today was returning to job clinic amd getting things done about the house and bit of shopping not much time for learning until the night time. I did a code wars though.
+
+- 🖥️ I did a code wars today something called "How good are you really?". you had to write something that would compare scores and tell you if you were better as True and if your were worse than the other fictional test taker as false.
+
+###  Here's the code from todays code wars
+
+```js
+
+// There was a test in your class and you passed it. Congratulations!
+// But you're an ambitious person. You want to know if you're better than the average student in your class.
+
+// You receive an array with your peers' test scores. Now calculate the average and compare your score!
+
+// Return True if you're better, else False!
+
+
+// Step 1 create a function that takes in an array of numbers and a number function betterThanAverage(classPoints, yourPoints)
+// Step 2 create a variable that will hold the average and set it to 0 
+// Step 3 create a for loop that will loop through the array and add each number to the average
+// Step 4 create a variable that will hold the average and set it to the length of the array
+// Step 5 create a conditional statement that will check if your points is greater than the average
+// Step 6 if your points is greater than the average return true else return false
+
+function betterThanAverage(classPoints, yourPoints) {
+    let average = 0;
+    for (let i = 0; i < classPoints.length; i++) {
+        average += classPoints[i];
+    }
+    average /= classPoints.length;
+    return yourPoints > average ? true : false;
+}
+
+console.log(betterThanAverage([2, 3], 5)); // Output should be true
+
+
+```
+
+- 📝 I'm going to try and get some more project work done tomorrow. Keep moving forward.
+
+
+### **Thoughts:**
+
+I'm glad I got some work done today. I'm going to try and get some more done tomorrow. ONWARDSSSSS! It maybe a repeat of yesterday but it's still true to me.
+
+### **Links/resources:** https://www.codewars.com <-- code wars is a great place to practice your coding skills and learn new things. I'm going to try do more when i can.
+
+🎵  <--  listening to some Stevey". https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ?si=LJ4CJRHWRmCvGbHaxLVECg
+
