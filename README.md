@@ -2485,3 +2485,84 @@ I'm glad I got some work done today. I'm going to try and get some more done tom
 
 🎵  <--  listening to some Stevey". https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ?si=LJ4CJRHWRmCvGbHaxLVECg
 
+
+---
+
+## Day 14
+
+---
+
+_SEPTEMBER 7 2023_
+
+### **Todays Progress:**
+
+- 📚 Today was I had a meeting with my mentor, we discussed some things I could do to improve my project build as well as adding more to CV to make it more than 1 page. I'm going to try and do a bit more project work tomorrow.
+
+- 🖥️ I did a code wars today something called "Build Tower". you had to build a pyramid using * to represent the building.
+
+###  Here's the code from todays code wars
+
+```js
+
+// Build Tower
+// Build a pyramid-shaped tower, as an array/list of strings, given a positive integer number of floors. A tower block is represented with "*" character.
+
+// For example, a tower with 3 floors looks like this:
+
+// [
+//   "  *  ",
+//   " *** ", 
+//   "*****"
+// ]
+// And a tower with 6 floors looks like this:
+
+// [
+//   "     *     ", 
+//   "    ***    ", 
+//   "   *****   ", 
+//   "  *******  ", 
+//   " ********* ", 
+//   "***********"
+// ]
+
+// Step 1 create a function that takes in a number called towerBuilder
+
+// Step 2 create a variable that will hold the tower and set it to an empty array
+
+// Step 3 create a variable that will hold the space and set it to an empty string
+
+
+// Step 4 create a for loop that will loop through the number and add the space to the tower
+
+// Step 5 create a variable that will hold the star and set it to an empty string
+
+// Step 6 create a for loop that will loop through the number and add the star to the tower
+
+// Step 7 create a variable that will hold the tower and set it to an empty array
+
+// Step 8 create a for loop that will loop through the number and add the space to the tower
+
+
+
+function towerBuilder(nFloors) {
+  let tower = []; // Holds the entire tower
+  for (let i = 1; i <= nFloors; i++) { // Starts from 1 to make it easier to calculate stars and spaces
+    
+    let numSpaces = nFloors - i; // Calculate the number of spaces before and after the stars for the current floor
+    let numStars = 2 * i - 1; // Calculate the number of stars for the current floor
+    
+    let spaces = ' '.repeat(numSpaces); // Create a string of spaces
+    let stars = '*'.repeat(numStars); // Create a string of stars
+    
+    let floor = spaces + stars + spaces; // Combine spaces and stars to create the current floor
+    
+    tower.push(floor); // Add the current floor to the tower array
+  }
+  return tower;
+}
+
+console.log(towerBuilder(3));
+
+// Output: [ '   ', '   ', '   ' ]
+
+```
