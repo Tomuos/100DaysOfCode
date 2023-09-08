@@ -2566,3 +2566,57 @@ console.log(towerBuilder(3));
 // Output: [ '   ', '   ', '   ' ]
 
 ```
+
+- 📝 I'm going to try and get some more project work done.
+
+### **Thoughts:**
+
+I think each day I'll be looking to see what else i need to look into and learn. I think its difficult sometimes to stay motivated when your not sure your doing a good job with something. 
+
+
+### **Links/resources:** https://www.codewars.com <-- code wars is a great place to practice your coding skills and learn new things. I'm going to try do more when i can.
+
+🎵  <--  listening to some Stevey". https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ?si=LJ4CJRHWRmCvGbHaxLVECg
+
+
+---
+
+## Day 15
+
+
+---
+
+_SEPTEMBER 8 2023_
+
+### **Todays Progress:**
+
+- 📚 After speaking with JJ(my mentor) yesterday he gave me some ideas of what to do next. One of which was looking into Docker and how to use it.
+
+- 🖥️ I spent some of the day going through setting up docker files in my apps to see if i could get them running on docker. After watching a bit of Docker Crash Course by Net Ninja and asking Chatgpt what i'd missed on set up of certain files I managed to get it up and running. I now have two images for the two apps. So that should mean others can go on my repo and pull the image and be good to go. 
+
+
+###  Here's the screen grabs from todays experience
+
+
+
+
+![image of the game](images/dockerdad.png)
+
+![image of the game](images/dockerapps.png)
+
+
+
+- 📝 I'll see if i can look more into the backend for this project tonight but also see if i can add some more functionality to the word-constructor app as i can't seem to add backspace for wrong keyboard inputs at the moment.
+
+
+### **Thoughts:**
+
+It was good to learn something new it maybe useful to know this when looking for jobs.
+
+
+### **Links/resources:** [![Watch the video tutorial](https://img.youtube.com/vi/31ieHmcTUOk/0.jpg)](https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7&index=1&ab_channel=NetNinja)
+
+
+🎵  <--  listening to some Mallrat song radio". https://open.spotify.com/playlist/37i9dQZF1E4rgUBWFc81A2?si=b62812f0af864061
+
+
