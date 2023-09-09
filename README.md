@@ -2620,3 +2620,67 @@ It was good to learn something new it maybe useful to know this when looking for
 🎵  <--  listening to some Mallrat song radio". https://open.spotify.com/playlist/37i9dQZF1E4rgUBWFc81A2?si=b62812f0af864061
 
 
+---
+
+## Day 16
+
+---
+
+_SEPTEMBER 9 2023_
+
+### **Todays Progress:**
+
+- 📚 Today I was a slow one, didn't get to work on much till late at night. So the project work is sort of stuck at the moment i'm trying to work things out as i go. I did a code wars though.
+
+
+- 🖥️ The code wars i did was called "Break camelCase" and it was a bit of a challenge but I managed to get it done. I'll show the code below.
+
+###  Here's the code from todays code wars
+
+```js
+
+// Complete the solution so that the function will break up camel casing, using a space between words.
+
+// Example
+// "camelCasing"  =>  "camel Casing"
+// "identifier"   =>  "identifier"
+// ""             =>  ""
+
+// step 1: function that takes in a string
+// step 2: create a variable that will hold the new string and set it to an empty string
+// step 3: create a for loop that will loop through the string
+// step 4: create a conditional statement that will check if the current character is uppercase
+// step 5: if the current character is uppercase add a space and the current character to the new string
+// step 6: else add the current character to the new string
+// step 7: return the new string
+
+function solution(string) {
+    let newWord = '';
+    for (let i = 0; i < string.length; i++) {
+        if (string[i] === string[i].toUpperCase()) {
+            newWord  += ' ' + string[i];
+        } else {
+            newWord  += string[i];
+        }
+    }
+    return newWord;
+}
+
+console.log(solution('camelCasing')); // Output should be camel Casing
+
+```
+
+- 📝 I'm going to try and get some more project work done but the weekend isn't the best starting point. Family time is important too.
+
+
+### **Thoughts:**
+
+IT's good getting anything done on the weekend no matter the size of the work done. Bit by bit it will get done.
+
+
+### **Links/resources:** https://www.codewars.com <-- code wars is a great place to practice your coding skills and learn new things. I'm going to try do more when i can.
+
+🎵  <--  listening to spotify discover weekly". https://open.spotify.com/playlist/37i9dQZEVXcIRCJ2Csl8ii?si=773b542c38bc48c3
+
+
+
