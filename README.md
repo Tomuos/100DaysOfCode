@@ -2683,4 +2683,50 @@ IT's good getting anything done on the weekend no matter the size of the work do
 🎵  <--  listening to spotify discover weekly". https://open.spotify.com/playlist/37i9dQZEVXcIRCJ2Csl8ii?si=773b542c38bc48c3
 
 
+---
+
+## Day 17
+
+---
+
+
+_SEPTEMBER 10 2023_
+
+### **Todays Progress:**
+
+- 📚Weekend again so not much time for coding but I did manage to do a code wars. I'm going to try and do a bit more project work tomorrow.
+
+- 🖥️ The code wars i did was called "Convert number to reversed array of digits" 
+
+###  Here's the code from todays code wars
+
+```js
+
+function digitize(n) {
+  // Convert number to string and split into array of digits
+  const digits = String(n).split('');
+  // Reverse the order of the digits and convert back to numbers
+  return digits.reverse().map(Number);
+}
+
+
+console.log(digitize(35231)); // Output: [1, 3, 2, 5, 3]
+console.log(digitize(0));     // Output: [0]
+console.log(digitize(12345)); // Output: [5, 4, 3, 2, 1]
+
+```
+
+- 📝 I'm going to try and get some more project work done tomorrow. Keep moving forward.
+
+
+### **Thoughts:**
+
+
+I wish I could do more but the weekend is family time. Might need more time away from the screen anyway.
+
+
+### **Links/resources:** https://www.codewars.com <-- code wars is a great place to practice your coding skills and learn new things. I'm going to try do more when i can.
+
+
+🎵  <--  listening to spotify discover weekly". https://open.spotify.com/playlist/37i9dQZEVXcIRCJ2Csl8ii?si=773b542c38bc48c3
 
