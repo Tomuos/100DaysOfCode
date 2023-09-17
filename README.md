@@ -1832,7 +1832,7 @@ Hopefully be of more help to the team.
 
 ---
 
-## Day 1
+## Entry 1
 
 ---
 
@@ -1925,7 +1925,7 @@ Family first, school closure due to flooding, shower heads breaking, and a whole
 
 ---
 
-## Day 2
+## Entry 2
 
 ---
 
@@ -1982,7 +1982,7 @@ I'm glad I managed to get some work done today. I'm going to try and get some mo
 
 ---
 
-## Day 3
+## Entry 3
 
 ---
 
@@ -2041,7 +2041,7 @@ It was good to focus on sending out CV's and working to make myself more employa
 
 ---
 
-## Day 4
+## Entry 4
 
 ---
 
@@ -2121,7 +2121,7 @@ I'm glad I managed to get some work done today. I'm going to try and get some mo
 
 --- 
 
-## Day 5 
+## Entry 5 
 
 ---
 
@@ -2161,7 +2161,7 @@ I'm glad I managed to get some work done today. I'm going to try and get some mo
 
 ---
 
-## Day 6
+## Entry 6
 
 ---
 
@@ -2188,7 +2188,7 @@ I'm glad I managed to get some work done today. Chipping away day by day really 
 
 ---
 
-## Day 7
+## Entry 7
 
 ---
 
@@ -2217,7 +2217,7 @@ It's getting there, bit by bit. Ocassionally it goes in the wrong direction but 
 
 ---
 
-## Day 8
+## Entry 8
 
 ---
 
@@ -2248,7 +2248,7 @@ Not a bad day, there were fiddly bits but i got through it in the end.
 
 ---
 
-## Day 9
+## Entry 9
 
 ---
 
@@ -2279,7 +2279,7 @@ It was an interesting day today very strange to be presenting to a company like 
 
 ---
 
-## Day 10
+## Entry 10
 
 ---
 
@@ -2310,7 +2310,7 @@ Busy day but not for coding. I'm going to try and get some more done tomorrow. K
 
 ---
 
-## Day 11
+## Entry 11
 
 ---
 
@@ -2379,7 +2379,7 @@ Today was a little frustrating as i pulled a muscle in my shoulder and it's been
 
 ---
 
-## Day 12
+## Entry 12
 
 ---
 
@@ -2428,7 +2428,7 @@ Glad I got an interview at least but it's a bit of a bummer. I'm going to try an
 
 ---
 
-## Day 13
+## Entry 13
 
 ---
 
@@ -2488,7 +2488,7 @@ I'm glad I got some work done today. I'm going to try and get some more done tom
 
 ---
 
-## Day 14
+## Entry 14
 
 ---
 
@@ -2581,7 +2581,7 @@ I think each day I'll be looking to see what else i need to look into and learn.
 
 ---
 
-## Day 15
+## Entry 15
 
 
 ---
@@ -2622,7 +2622,7 @@ It was good to learn something new it maybe useful to know this when looking for
 
 ---
 
-## Day 16
+## Entry 16
 
 ---
 
@@ -2685,7 +2685,7 @@ IT's good getting anything done on the weekend no matter the size of the work do
 
 ---
 
-## Day 17
+## Entry 17
 
 ---
 
@@ -2729,4 +2729,37 @@ I wish I could do more but the weekend is family time. Might need more time away
 
 
 🎵  <--  listening to spotify discover weekly". https://open.spotify.com/playlist/37i9dQZEVXcIRCJ2Csl8ii?si=773b542c38bc48c3
+
+
+--- 
+
+## Entry 18
+
+---
+
+_SEPTEMBER 17 2023_
+
+### **Todays Progress:**
+
+- 📚 It's been a long week of learning things from all over the place. 
+
+- 🖥️ I've been looking into .net and c# the project is on hold a little bit but not for long. I'm going to try and do a bit more project work tomorrow. I need to consider making a database an API and backend for the project. I'm not sure how to do that yet but I'll look into it.
+
+###  No code this time
+
+
+
+- 📝 I'm going to try and get some more project work done tomorrow. Keep moving forward.
+
+
+### **Thoughts:**
+
+
+I feel a little tired at the moment but what can you do. The kids will be in school and nursery.
+
+
+### **Links/resources:** https://dotnet.microsoft.com/en-us/
+
+
+🎵  <--  listening to Simonjaysus on twitch playing some music. https://www.twitch.tv/simonjaysus
 
