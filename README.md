@@ -2763,3 +2763,34 @@ I feel a little tired at the moment but what can you do. The kids will be in sch
 
 🎵  <--  listening to Simonjaysus on twitch playing some music. https://www.twitch.tv/simonjaysus
 
+
+---
+
+## Entry 19
+
+---
+
+
+_OCTOBER 1 2023_
+
+### **Todays Progress:**
+
+- 📚 Everything has slowed down for the moment as I'm planning the next stages of a porfolio website and then thinking about my main project and what I need to do next.
+
+- 🖥️ So i've been looking at scrolling portfolio websites, also been checking out three.js animations for some interesting effects. 
+
+###  No code this time
+
+
+- 📝 No code but plenty of things to work on figure out and then move forward with. I feel like I may have tried to rush a few things lately without much thought into how to complete them. 
+
+
+### **Thoughts:**
+
+Tomorrow may involve working out a strategy for the next steps of the project. I'm not sure what to do next but I'll figure it out.
+
+
+### **Links/resources:** https://threejs.org/
+
+
+🎵  <--  listening to Jamie Drake music. https://open.spotify.com/track/0GWuCn4oBrLflTfyb3wmuV?si=6329491e797e4e6f
