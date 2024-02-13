@@ -1,4 +1,4 @@
-# 100 Days Of Code Journal / School of Code Bootcamp Journal
+# Code Journal
 
 ## Day 1
 
